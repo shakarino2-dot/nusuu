@@ -17,7 +17,6 @@ export async function generateStaticParams() {
 }
 
 export default async function LessonPage({ params }: PageProps) {
-    console.log("LessonPage received params.lessonId:", params.lessonId);
     const lesson = await getLesson(params.lessonId)
 
     if (!lesson) {
