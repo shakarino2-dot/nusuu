@@ -4,7 +4,7 @@ import { notFound } from "next/navigation";
 
 interface PageProps {
     params: {
-        id: string
+        lessonId: string
     }
 }
 
@@ -12,12 +12,13 @@ interface PageProps {
 export async function generateStaticParams() {
     const lessons = await getAllLessons()
     return lessons.map((lesson) => ({
-        id: lesson.id,
+        lessonId: lesson.id,
     }))
 }
 
 export default async function LessonPage({ params }: PageProps) {
-    const lesson = await getLesson(params.id)
+    console.log("LessonPage received params.lessonId:", params.lessonId);
+    const lesson = await getLesson(params.lessonId)
 
     if (!lesson) {
         notFound()

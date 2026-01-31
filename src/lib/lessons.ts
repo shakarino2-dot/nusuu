@@ -18,7 +18,8 @@ export async function getAllLessons(): Promise<Lesson[]> {
     const files = fs.readdirSync(lessonsDir).filter(f => f.endsWith('.json'))
     const lessons = files.map(file => {
         const content = fs.readFileSync(path.join(lessonsDir, file), 'utf-8')
-        return JSON.parse(content) as Lesson
+        const lesson = JSON.parse(content) as Lesson;
+        return lesson;
     })
 
     // Sort by ID numeric value if possible, or alphanumeric
