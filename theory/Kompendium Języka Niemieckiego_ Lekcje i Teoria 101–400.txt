@@ -1,0 +1,1803 @@
+﻿Oto kolejne 300 lekcji (numery 101–400) przygotowanych na podstawie źródeł, sformatowanych jako obiekt JSON. Zgodnie z instrukcją, co 20 lekcji pojawia się lekcja teoretyczna.
+[
+  {
+    "id": 101,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku nazywamy wieczór?",
+    "odpowiedz": "Jest to 'der Abend' [1]."
+  },
+  {
+    "id": 102,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'ab-heben' w kontekście pieniędzy?",
+    "odpowiedz": "Oznacza on 'wypłacać' [1]."
+  },
+  {
+    "id": 103,
+    "typ": "quiz",
+    "pytanie": "Jak brzmi liczba mnoga od 'e Adresse'?",
+    "odpowiedz": "Liczba mnoga to 'die Adressen' [1]."
+  },
+  {
+    "id": 104,
+    "typ": "quiz",
+    "pytanie": "Jak przetłumaczyć słowo 'allein'?",
+    "odpowiedz": "Oznacza ono 'sam/samotnie' [1]."
+  },
+  {
+    "id": 105,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'stary'?",
+    "odpowiedz": "To przymiotnik 'alt' [1]."
+  },
+  {
+    "id": 106,
+    "typ": "quiz",
+    "pytanie": "Jakie jest niemieckie słowo oznaczające 'urząd'?",
+    "odpowiedz": "Jest to 'das Amt' [1]."
+  },
+  {
+    "id": 107,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'an-fangen'?",
+    "odpowiedz": "Oznacza on 'zaczynać' [1]."
+  },
+  {
+    "id": 108,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku zapytać o czyjeś nazwisko (formularz)?",
+    "odpowiedz": "Używamy słowa 'der Familienname' [2]."
+  },
+  {
+    "id": 109,
+    "typ": "quiz",
+    "pytanie": "Jak nazywa się odpowiedź po niemiecku?",
+    "odpowiedz": "To 'die Antwort' [1]."
+  },
+  {
+    "id": 110,
+    "typ": "quiz",
+    "pytanie": "Jak powiedzieć 'pracować'?",
+    "odpowiedz": "Używamy czasownika 'arbeiten' [1]."
+  },
+  {
+    "id": 111,
+    "typ": "quiz",
+    "pytanie": "Co oznacza 'der Apfelsaft'?",
+    "odpowiedz": "Oznacza 'sok jabłkowy' [1]."
+  },
+  {
+    "id": 112,
+    "typ": "quiz",
+    "pytanie": "Jak nazywamy aptekę?",
+    "odpowiedz": "To 'die Apotheke' [1]."
+  },
+  {
+    "id": 113,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'pociąg'?",
+    "odpowiedz": "To 'die Bahn' [1]."
+  },
+  {
+    "id": 114,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać dworzec kolejowy?",
+    "odpowiedz": "To 'der Bahnhof' [1]."
+  },
+  {
+    "id": 115,
+    "typ": "quiz",
+    "pytanie": "Co oznacza słowo 'bald'?",
+    "odpowiedz": "Oznacza ono 'wkrótce' [1]."
+  },
+  {
+    "id": 116,
+    "typ": "quiz",
+    "pytanie": "Jak nazywa się balkon?",
+    "odpowiedz": "To 'der Balkon' [1]."
+  },
+  {
+    "id": 117,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'piłka'?",
+    "odpowiedz": "To 'der Ball' [1]."
+  },
+  {
+    "id": 118,
+    "typ": "quiz",
+    "pytanie": "Jak brzmi nazwa banku?",
+    "odpowiedz": "To 'die Bank' [1]."
+  },
+  {
+    "id": 119,
+    "typ": "quiz",
+    "pytanie": "Co oznacza słowo 'bar'?",
+    "odpowiedz": "Oznacza ono 'gotówką' lub lokal 'die Bar' [1]."
+  },
+  {
+    "id": 120,
+    "typ": "teoria",
+    "temat": "Zaimki dzierżawcze (Possessivartikel)",
+    "tresc": "W języku niemieckim zaimki dzierżawcze określają przynależność: 'mein' (mój), 'dein' (twój), 'Ihr' (Pański/Pani). Ich końcówka zależy od rodzaju rzeczownika, np. 'mein Tisch' (rodzaj męski), 'meine Uhr' (rodzaj żeński), 'mein Bild' (rodzaj nijaki) [3]."
+  },
+  {
+    "id": 121,
+    "typ": "quiz",
+    "pytanie": "Ile lat ma Michael Wächter?",
+    "odpowiedz": "Michael Wächter ma 22 lata [4]."
+  },
+  {
+    "id": 122,
+    "typ": "quiz",
+    "pytanie": "Kim z zawodu jest Michael Wächter?",
+    "odpowiedz": "Jest on bankowcem (Bankkaufmann) [4]."
+  },
+  {
+    "id": 123,
+    "typ": "quiz",
+    "pytanie": "Gdzie obecnie mieszka Michael Wächter?",
+    "odpowiedz": "Obecnie mieszka u swoich rodziców [4]."
+  },
+  {
+    "id": 124,
+    "typ": "quiz",
+    "pytanie": "Kiedy Michael Wächter planuje się przeprowadzić?",
+    "odpowiedz": "Planuje przeprowadzkę za dwa tygodnie [4]."
+  },
+  {
+    "id": 125,
+    "typ": "quiz",
+    "pytanie": "Jakie pomieszczenia znajdują się w nowym mieszkaniu Michaela?",
+    "odpowiedz": "Mieszkanie ma pokój dzienny, sypialnię, łazienkę, kuchnię i przedpokój [4]."
+  },
+  {
+    "id": 126,
+    "typ": "quiz",
+    "pytanie": "Czy łazienka w nowym mieszkaniu Michaela ma okno?",
+    "odpowiedz": "Nie, łazienka jest stara i nie ma okna [4]."
+  },
+  {
+    "id": 127,
+    "typ": "quiz",
+    "pytanie": "Co Michael ma w pokoju dziennym, czego nie ma w innych pokojach?",
+    "odpowiedz": "Ma tam balkon [4]."
+  },
+  {
+    "id": 128,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'sypialnia'?",
+    "odpowiedz": "To 'das Schlafzimmer' [4]."
+  },
+  {
+    "id": 129,
+    "typ": "quiz",
+    "pytanie": "Jak nazywamy 'pokój dziecięcy'?",
+    "odpowiedz": "To 'das Kinderzimmer' [4]."
+  },
+  {
+    "id": 130,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku nazwać 'gabinet' lub 'pokój do pracy'?",
+    "odpowiedz": "To 'das Arbeitszimmer' [4]."
+  },
+  {
+    "id": 131,
+    "typ": "quiz",
+    "pytanie": "Co to jest 'das Treppenhaus'?",
+    "odpowiedz": "Oznacza to 'klatkę schodową' [4]."
+  },
+  {
+    "id": 132,
+    "typ": "quiz",
+    "pytanie": "Jak nazywa się 'pomieszczenie hobbystyczne'?",
+    "odpowiedz": "To 'der Hobbyraum' [4]."
+  },
+  {
+    "id": 133,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'piwnica'?",
+    "odpowiedz": "To 'der Keller' [4]."
+  },
+  {
+    "id": 134,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'przedpokój'?",
+    "odpowiedz": "To 'der Flur' [4]."
+  },
+  {
+    "id": 135,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'taras'?",
+    "odpowiedz": "To 'die Terrasse' [4]."
+  },
+  {
+    "id": 136,
+    "typ": "quiz",
+    "pytanie": "Jak nazywa się szafa na ubrania?",
+    "odpowiedz": "To 'der Kleiderschrank' [5]."
+  },
+  {
+    "id": 137,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'komoda'?",
+    "odpowiedz": "To 'die Kommode' [5]."
+  },
+  {
+    "id": 138,
+    "typ": "quiz",
+    "pytanie": "Jak nazywamy sofę/kanapę?",
+    "odpowiedz": "Używamy słowa 'die Couch' [5]."
+  },
+  {
+    "id": 139,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'fotel'?",
+    "odpowiedz": "To 'der Sessel' [5]."
+  },
+  {
+    "id": 140,
+    "typ": "teoria",
+    "temat": "Biernik (Akkusativ) z przyimkiem 'für'",
+    "tresc": "Przyimek 'für' zawsze wymaga użycia biernika (Akkusativ). Oznacza to, że rodzajnik męski zmienia się z 'der' na 'den' (np. 'für den Flur'), natomiast rodzajniki żeńskie 'die' i nijakie 'das' pozostają bez zmian [5]."
+  },
+  {
+    "id": 141,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'lustro'?",
+    "odpowiedz": "To 'der Spiegel' [5]."
+  },
+  {
+    "id": 142,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'stół jadalny'?",
+    "odpowiedz": "To 'der Esstisch' [5]."
+  },
+  {
+    "id": 143,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'zasłona'?",
+    "odpowiedz": "To 'der Vorhang' [5]."
+  },
+  {
+    "id": 144,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'regał na książki'?",
+    "odpowiedz": "To 'das Bücherregal' [5]."
+  },
+  {
+    "id": 145,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'dywan'?",
+    "odpowiedz": "To 'der Teppich' [5]."
+  },
+  {
+    "id": 146,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'biurko'?",
+    "odpowiedz": "To 'der Schreibtisch' [5]."
+  },
+  {
+    "id": 147,
+    "typ": "quiz",
+    "pytanie": "Co Michael Wächter mówi o swoich relacjach z matką?",
+    "odpowiedz": "Mówi, że jego matka bardzo lubi dzieci, ale dla niej on sam wciąż jest dzieckiem [6]."
+  },
+  {
+    "id": 148,
+    "typ": "quiz",
+    "pytanie": "Czy Michael może w domu słuchać muzyki?",
+    "odpowiedz": "Nie, twierdzi, że w domu nie wolno mu słuchać muzyki [6]."
+  },
+  {
+    "id": 149,
+    "typ": "quiz",
+    "pytanie": "Jak Michael czuje się po przeprowadzce?",
+    "odpowiedz": "Czuje się teraz bardzo szczęśliwy i wolny [6]."
+  },
+  {
+    "id": 150,
+    "typ": "quiz",
+    "pytanie": "Dlaczego Michael chciał się wyprowadzić z domu?",
+    "odpowiedz": "Chciał w końcu zacząć żyć własnym życiem [6]."
+  },
+  {
+    "id": 151,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'lampa stojąca'?",
+    "odpowiedz": "To 'die Stehlampe' [5]."
+  },
+  {
+    "id": 152,
+    "typ": "quiz",
+    "pytanie": "Jak zapytać 'Co o tym sądzisz?' używając czasownika 'finden'?",
+    "odpowiedz": "Pytamy 'Wie findest du das?' [7]."
+  },
+  {
+    "id": 153,
+    "typ": "quiz",
+    "pytanie": "Jak powiedzieć 'Uważam, że to jest brzydkie'?",
+    "odpowiedz": "Mówimy 'Ich finde das hässlich' [7]."
+  },
+  {
+    "id": 154,
+    "typ": "quiz",
+    "pytanie": "Jakie słowo oznacza, że coś jest 'praktyczne'?",
+    "odpowiedz": "To przymiotnik 'praktisch' [7]."
+  },
+  {
+    "id": 155,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'wygodny'?",
+    "odpowiedz": "To przymiotnik 'bequem' [7]."
+  },
+  {
+    "id": 156,
+    "typ": "quiz",
+    "pytanie": "Jak powiedzieć 'To wygląda dobrze'?",
+    "odpowiedz": "Mówimy 'Das sieht gut aus' [8]."
+  },
+  {
+    "id": 157,
+    "typ": "quiz",
+    "pytanie": "Co oznacza zwrot 'zu groß'?",
+    "odpowiedz": "Oznacza 'za duży' [8]."
+  },
+  {
+    "id": 158,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'tani'?",
+    "odpowiedz": "To przymiotnik 'billig' [9]."
+  },
+  {
+    "id": 159,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'pralkę'?",
+    "odpowiedz": "To 'die Waschmaschine' [3]."
+  },
+  {
+    "id": 160,
+    "typ": "teoria",
+    "temat": "Stopniowanie przymiotników – nieregularne formy",
+    "tresc": "Większość przymiotników stopniuje się regularnie, ale istnieją wyjątki. Przymiotnik 'gut' (dobry) stopniuje się jako 'besser' (lepszy) i 'am besten' (najlepszy). Przymiotnik 'hoch' (wysoki) zmienia się w 'höher' i 'am höchsten' [9]."
+  },
+  {
+    "id": 161,
+    "typ": "quiz",
+    "pytanie": "Ile kosztuje Jever Pils (24 butelki)?",
+    "odpowiedz": "Kosztuje 7,98 Euro [10]."
+  },
+  {
+    "id": 162,
+    "typ": "quiz",
+    "pytanie": "Jaka jest cena wody mineralnej Emsland (12 butelek)?",
+    "odpowiedz": "Kosztuje 2,48 Euro [10]."
+  },
+  {
+    "id": 163,
+    "typ": "quiz",
+    "pytanie": "Ile kosztuje litrowa butelka Coca-Coli lub Fanty?",
+    "odpowiedz": "Kosztuje 0,59 Euro [10]."
+  },
+  {
+    "id": 164,
+    "typ": "quiz",
+    "pytanie": "Jaka jest cena soku jabłkowego (1 litr)?",
+    "odpowiedz": "Sok jabłkowy kosztuje 0,68 Euro [10]."
+  },
+  {
+    "id": 165,
+    "typ": "quiz",
+    "pytanie": "Ile kosztuje białe wino Badischer Weißwein?",
+    "odpowiedz": "Kosztuje 2,98 Euro [10]."
+  },
+  {
+    "id": 166,
+    "typ": "quiz",
+    "pytanie": "Jaka jest cena chleba pełnoziarnistego (Vollkornbrot, 500g)?",
+    "odpowiedz": "Kosztuje 0,79 Euro [10]."
+  },
+  {
+    "id": 167,
+    "typ": "quiz",
+    "pytanie": "Ile kosztuje 100g sera Edamer?",
+    "odpowiedz": "Kosztuje 0,59 Euro [10]."
+  },
+  {
+    "id": 168,
+    "typ": "quiz",
+    "pytanie": "Jaka jest cena jogurtu z owocami (200g)?",
+    "odpowiedz": "Kosztuje 0,49 Euro [10]."
+  },
+  {
+    "id": 169,
+    "typ": "quiz",
+    "pytanie": "Ile kosztuje 10 sztuk jajek?",
+    "odpowiedz": "Kosztują 1,21 Euro [10]."
+  },
+  {
+    "id": 170,
+    "typ": "quiz",
+    "pytanie": "Jaka jest cena słoika dżemu (450g)?",
+    "odpowiedz": "Kosztuje 1,19 Euro [10]."
+  },
+  {
+    "id": 171,
+    "typ": "quiz",
+    "pytanie": "Ile kosztuje 1 kg mąki?",
+    "odpowiedz": "Mąka kosztuje 0,73 Euro [10]."
+  },
+  {
+    "id": 172,
+    "typ": "quiz",
+    "pytanie": "Jaka jest cena 100g szynki (Schinken)?",
+    "odpowiedz": "Kosztuje 1,79 Euro [10]."
+  },
+  {
+    "id": 173,
+    "typ": "quiz",
+    "pytanie": "Ile kosztuje kilogram kotletów (Kotelett)?",
+    "odpowiedz": "Kosztują 4,88 Euro [10]."
+  },
+  {
+    "id": 174,
+    "typ": "quiz",
+    "pytanie": "Jaka jest cena kilograma steków wołowych (Rindersteak)?",
+    "odpowiedz": "Kosztują 10,25 Euro [10]."
+  },
+  {
+    "id": 175,
+    "typ": "quiz",
+    "pytanie": "Ile kosztuje 500g lodów (Eis)?",
+    "odpowiedz": "Kosztują 0,99 Euro [10]."
+  },
+  {
+    "id": 176,
+    "typ": "quiz",
+    "pytanie": "Ile kosztuje kilogram jabłek?",
+    "odpowiedz": "Kosztują 1,11 Euro [10]."
+  },
+  {
+    "id": 177,
+    "typ": "quiz",
+    "pytanie": "Jaka jest cena płynu do naczyń SUN?",
+    "odpowiedz": "Kosztuje 1,69 Euro [10]."
+  },
+  {
+    "id": 178,
+    "typ": "quiz",
+    "pytanie": "Co Michael Wächter musi kupić jako pierwsze na swoją nową drogę życia?",
+    "odpowiedz": "Musi kupić m.in. ekspres do kawy [11]."
+  },
+  {
+    "id": 179,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'papier listowy'?",
+    "odpowiedz": "To 'das Briefpapier' [11]."
+  },
+  {
+    "id": 180,
+    "typ": "teoria",
+    "temat": "Czasowniki rozdzielnie złożone",
+    "tresc": "Wiele czasowników w języku niemieckim ma przedrostki, które oddzielają się od tematu i wędrują na koniec zdania w czasie teraźniejszym. Przykładem jest 'aufstehen' (wstawać): 'Willi Rose steht um 5.30 Uhr auf' [12]."
+  },
+  {
+    "id": 181,
+    "typ": "quiz",
+    "pytanie": "O której godzinie wstaje Willi Rose?",
+    "odpowiedz": "Wstaje o 5.30 rano [12]."
+  },
+  {
+    "id": 182,
+    "typ": "quiz",
+    "pytanie": "Co Willi Rose robi rano po wstaniu?",
+    "odpowiedz": "Przygotowuje śniadanie [12]."
+  },
+  {
+    "id": 183,
+    "typ": "quiz",
+    "pytanie": "O której godzinie wstaje Monika Hilger?",
+    "odpowiedz": "Wstaje o 6.00 rano [12]."
+  },
+  {
+    "id": 184,
+    "typ": "quiz",
+    "pytanie": "Co Monika Hilger robi jako pierwszą czynność w pracy?",
+    "odpowiedz": "Ściele łóżka (macht Betten) [12]."
+  },
+  {
+    "id": 185,
+    "typ": "quiz",
+    "pytanie": "O której godzinie wstaje dr Klaus Schwarz?",
+    "odpowiedz": "Wstaje o 7.00 rano [12]."
+  },
+  {
+    "id": 186,
+    "typ": "quiz",
+    "pytanie": "Co dr Klaus Schwarz robi rano przed pracą?",
+    "odpowiedz": "Idzie na spacer (macht einen Spaziergang) [12]."
+  },
+  {
+    "id": 187,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku zapytać 'O której godzinie...?'",
+    "odpowiedz": "Pytamy 'Um wie viel Uhr...?' [12]."
+  },
+  {
+    "id": 188,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'spacer'?",
+    "odpowiedz": "To 'der Spaziergang' [1]."
+  },
+  {
+    "id": 189,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'träumen'?",
+    "odpowiedz": "Oznacza on 'śnić' lub 'marzyć' [12]."
+  },
+  {
+    "id": 190,
+    "typ": "quiz",
+    "pytanie": "Jak powiedzieć 'piętnaście po czwartej'?",
+    "odpowiedz": "Mówimy 'Viertel nach vier' [13]."
+  },
+  {
+    "id": 191,
+    "typ": "quiz",
+    "pytanie": "Jak powiedzieć 'za dziesięć siódma'?",
+    "odpowiedz": "Mówimy 'zehn vor sieben' [13]."
+  },
+  {
+    "id": 192,
+    "typ": "quiz",
+    "pytanie": "Co oznacza 'Mitternacht'?",
+    "odpowiedz": "Oznacza 'północ' [13]."
+  },
+  {
+    "id": 193,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'wpół do jedenastej'?",
+    "odpowiedz": "To 'halb elf' [13]."
+  },
+  {
+    "id": 194,
+    "typ": "quiz",
+    "pytanie": "Co oznacza zdanie 'Hier darf man nicht rauchen'?",
+    "odpowiedz": "Oznacza 'Tutaj nie wolno palić' [14]."
+  },
+  {
+    "id": 195,
+    "typ": "quiz",
+    "pytanie": "Gdzie na statku steward obsługuje gościa?",
+    "odpowiedz": "Robi to na pokładzie (auf Deck) [14]."
+  },
+  {
+    "id": 196,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'fryzjerka'?",
+    "odpowiedz": "To 'die Friseurin' [14]."
+  },
+  {
+    "id": 197,
+    "typ": "quiz",
+    "pytanie": "Co robi pianista na statku?",
+    "odpowiedz": "Gra na pianinie (spielt Klavier) [14]."
+  },
+  {
+    "id": 198,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'kucharz'?",
+    "odpowiedz": "To 'der Koch' [14]."
+  },
+  {
+    "id": 199,
+    "typ": "quiz",
+    "pytanie": "Co robi maser (der Masseur)?",
+    "odpowiedz": "Masuje kogoś (massiert jemanden) [14]."
+  },
+  {
+    "id": 200,
+    "typ": "teoria",
+    "temat": "Szyk zdania w pytaniach (Satzfrage)",
+    "tresc": "W pytaniach o rozstrzygnięcie (tak/nie) czasownik odmienny zajmuje pierwsze miejsce w zdaniu. Na drugim miejscu znajduje się podmiot. Przykład: 'Wohnst du in Brienz?' lub 'Ist das Maja Matter?' [15]."
+  },
+  {
+    "id": 201,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'biblioteka'?",
+    "odpowiedz": "To 'die Bibliothek' [16]."
+  },
+  {
+    "id": 202,
+    "typ": "quiz",
+    "pytanie": "Gdzie można kupić leki?",
+    "odpowiedz": "W aptece (in der Apotheke) [16]."
+  },
+  {
+    "id": 203,
+    "typ": "quiz",
+    "pytanie": "Jak nazywa się miejsce, gdzie naprawia się auta?",
+    "odpowiedz": "To 'die Autowerkstatt' [16]."
+  },
+  {
+    "id": 204,
+    "typ": "quiz",
+    "pytanie": "Gdzie można wypożyczyć książki?",
+    "odpowiedz": "W bibliotece (in der Stadtbibliothek) [16]."
+  },
+  {
+    "id": 205,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'cukiernia' lub 'piekarnia'?",
+    "odpowiedz": "To 'die Bäckerei' [16]."
+  },
+  {
+    "id": 206,
+    "typ": "quiz",
+    "pytanie": "Gdzie można obejrzeć film w mieście?",
+    "odpowiedz": "W kinie (im Kino) [16]."
+  },
+  {
+    "id": 207,
+    "typ": "quiz",
+    "pytanie": "Jak nazywa się sklep mięsny?",
+    "odpowiedz": "To 'die Metzgerei' [16]."
+  },
+  {
+    "id": 208,
+    "typ": "quiz",
+    "pytanie": "Gdzie można nadać list?",
+    "odpowiedz": "Na poczcie (auf der Post) [16]."
+  },
+  {
+    "id": 209,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku nazwać 'biuro podróży'?",
+    "odpowiedz": "To 'das Reisebüro' [16]."
+  },
+  {
+    "id": 210,
+    "typ": "quiz",
+    "pytanie": "Gdzie w Neustadt znajduje się kościół?",
+    "odpowiedz": "Jest to kościół 'Sankt Agnes' [16]."
+  },
+  {
+    "id": 211,
+    "typ": "quiz",
+    "pytanie": "Co oznacza 'das Fotostudio'?",
+    "odpowiedz": "Oznacza 'studio fotograficzne' [16]."
+  },
+  {
+    "id": 212,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'czystość/sprzątanie' (punkt usługowy)?",
+    "odpowiedz": "To 'die Reinigung' [16]."
+  },
+  {
+    "id": 213,
+    "typ": "quiz",
+    "pytanie": "Gdzie można potańczyć?",
+    "odpowiedz": "W dyskotece (in der Diskothek) [16]."
+  },
+  {
+    "id": 214,
+    "typ": "quiz",
+    "pytanie": "Co można robić w 'Stadtmuseum'?",
+    "odpowiedz": "Można tam oglądać wystawy muzealne [16]."
+  },
+  {
+    "id": 215,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać stoisko z napojami?",
+    "odpowiedz": "To 'der Getränkemarkt' [16]."
+  },
+  {
+    "id": 216,
+    "typ": "quiz",
+    "pytanie": "Co to jest 'die Telefonzelle'?",
+    "odpowiedz": "To 'budka telefoniczna' [16]."
+  },
+  {
+    "id": 217,
+    "typ": "quiz",
+    "pytanie": "Gdzie w Neustadt można pójść na basen?",
+    "odpowiedz": "Do 'Schwimmbad' [16]."
+  },
+  {
+    "id": 218,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'ratusz'?",
+    "odpowiedz": "To 'das Rathaus' [16]."
+  },
+  {
+    "id": 219,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać sklep z kwiatami?",
+    "odpowiedz": "To 'das Blumengeschäft' [16]."
+  },
+  {
+    "id": 220,
+    "typ": "teoria",
+    "temat": "Celownik (Dativ) – zaimki osobowe",
+    "tresc": "Zaimki osobowe w celowniku zmieniają swoją formę. Dla 'er' (on) i 'es' (ono) forma to 'ihm', dla 'sie' (ona) to 'ihr', a dla liczby mnogiej 'sie' (oni) to 'ihnen'. Formy te są często używane przy czasownikach takich jak 'schenken' (darować/dawać w prezencie) [11]."
+  },
+  {
+    "id": 221,
+    "typ": "quiz",
+    "pytanie": "Co pani Mahlein podarowała swojemu mężowi na urodziny?",
+    "odpowiedz": "Podarowała mu odtwarzacz DVD (einen DVD-Player) [11]."
+  },
+  {
+    "id": 222,
+    "typ": "quiz",
+    "pytanie": "Kto chce nauczyć się jeździć na rowerze w lekcji 9?",
+    "odpowiedz": "Jest to Astrid [17]."
+  },
+  {
+    "id": 223,
+    "typ": "quiz",
+    "pytanie": "Co ojciec kupił swojemu synowi (Elmarowi)?",
+    "odpowiedz": "Kupił mu kasetę do nauki języka (eine Sprachkassette) [17]."
+  },
+  {
+    "id": 224,
+    "typ": "quiz",
+    "pytanie": "Co Elmar (13 lat) chce poprawić w swojej nauce?",
+    "odpowiedz": "Chce poprawić swój angielski [17]."
+  },
+  {
+    "id": 225,
+    "typ": "quiz",
+    "pytanie": "Co sprzedawca pokazuje dzieciom?",
+    "odpowiedz": "Pokazuje im telefon komórkowy (ein Handy) [17]."
+  },
+  {
+    "id": 226,
+    "typ": "quiz",
+    "pytanie": "Co Jochen podarował swojej dziewczynie (Lisa)?",
+    "odpowiedz": "Podarował jej naszyjnik (eine Halskette) [17]."
+  },
+  {
+    "id": 227,
+    "typ": "quiz",
+    "pytanie": "Dlaczego ojciec kupił synowi kasetę?",
+    "odpowiedz": "Ponieważ Elmar nie jest dobry z angielskiego [17]."
+  },
+  {
+    "id": 228,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'urodziny'?",
+    "odpowiedz": "To 'der Geburtstag' [11]."
+  },
+  {
+    "id": 229,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'schenken'?",
+    "odpowiedz": "Oznacza on 'podarować' [11]."
+  },
+  {
+    "id": 230,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'naszyjnik'?",
+    "odpowiedz": "To 'die Halskette' [17]."
+  },
+  {
+    "id": 231,
+    "typ": "quiz",
+    "pytanie": "Co to jest 'ein Kartenhandy'?",
+    "odpowiedz": "To telefon na kartę (prepaid) [17]."
+  },
+  {
+    "id": 232,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'rower'?",
+    "odpowiedz": "To 'das Fahrrad' [17]."
+  },
+  {
+    "id": 233,
+    "typ": "quiz",
+    "pytanie": "Kto obchodzi jubileusz pracy w źródłach?",
+    "odpowiedz": "Ewald Berger obchodzi 45-lecie pracy [18]."
+  },
+  {
+    "id": 234,
+    "typ": "quiz",
+    "pytanie": "Co lubi robić Ewald Berger w wolnym czasie?",
+    "odpowiedz": "Lubi gotować, grać w piłkę i naprawiać auta [18]."
+  },
+  {
+    "id": 235,
+    "typ": "quiz",
+    "pytanie": "Ile lat ma Doris Lindemann i co planuje?",
+    "odpowiedz": "Ma 28 lat i planuje przyjęcie urodzinowe w niedzielę [18]."
+  },
+  {
+    "id": 236,
+    "typ": "quiz",
+    "pytanie": "Co Doris Lindemann lubi robić najbardziej?",
+    "odpowiedz": "Lubi czytać, chodzić do teatru i zapraszać gości [18]."
+  },
+  {
+    "id": 237,
+    "typ": "quiz",
+    "pytanie": "Gdzie chcą lecieć Daniela i Uwe?",
+    "odpowiedz": "Chcą lecieć do USA [18]."
+  },
+  {
+    "id": 238,
+    "typ": "quiz",
+    "pytanie": "Jakie hobby mają Daniela i Uwe?",
+    "odpowiedz": "Grają w tenisa i lubią kemping [18]."
+  },
+  {
+    "id": 239,
+    "typ": "quiz",
+    "pytanie": "Czego nie piją Daniela i Uwe?",
+    "odpowiedz": "Nie piją wina [18]."
+  },
+  {
+    "id": 240,
+    "typ": "teoria",
+    "temat": "Stopień najwyższy przymiotników (Superlativ)",
+    "tresc": "Stopień najwyższy tworzymy dodając końcówkę '-sten' i poprzedzając go słowem 'am'. Przykłady: 'am billigsten' (najtańszy), 'am schönsten' (najpiękniejszy), 'am schnellsten' (najszybszy). Niektóre formy są nieregularne, np. 'am besten' [9, 19]."
+  },
+  {
+    "id": 241,
+    "typ": "quiz",
+    "pytanie": "Który stół z ćwiczenia 8 jest najtańszy?",
+    "odpowiedz": "Stół A (Tisch A) jest najtańszy (am billigsten) [9]."
+  },
+  {
+    "id": 242,
+    "typ": "quiz",
+    "pytanie": "Który komputer z ćwiczenia 9 jest najszybszy?",
+    "odpowiedz": "Ten, który kosztuje 395 Euro, jest najszybszy (am schnellsten) [19]."
+  },
+  {
+    "id": 243,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'szybki'?",
+    "odpowiedz": "To przymiotnik 'schnell' [19]."
+  },
+  {
+    "id": 244,
+    "typ": "quiz",
+    "pytanie": "Co oznacza 'SuperShelve 108' w reklamie?",
+    "odpowiedz": "To system komputerowy z 10 GB miejsca na dysku [20]."
+  },
+  {
+    "id": 245,
+    "typ": "quiz",
+    "pytanie": "Ile miejsca na dane oferuje SuperShelve 108?",
+    "odpowiedz": "Oferuje 10 Gigabyte (10 GB) [20]."
+  },
+  {
+    "id": 246,
+    "typ": "quiz",
+    "pytanie": "Do czego służy 'Video Phone' według reklamy?",
+    "odpowiedz": "Służy do filmowania, robienia zdjęć i łączenia z internetem [21]."
+  },
+  {
+    "id": 247,
+    "typ": "quiz",
+    "pytanie": "Czy Video Phone może zastąpić aparat fotograficzny?",
+    "odpowiedz": "Tak, według reklamy pozwala zachować wspomnienia w obrazie i dźwięku [20]."
+  },
+  {
+    "id": 248,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'dźwięk'?",
+    "odpowiedz": "To słowo 'der Ton' [20]."
+  },
+  {
+    "id": 249,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'herunterladen'?",
+    "odpowiedz": "Oznacza on 'pobierać' (pliki z internetu) [20]."
+  },
+  {
+    "id": 250,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'wspomnienie'?",
+    "odpowiedz": "To 'die Erinnerung' [1]."
+  },
+  {
+    "id": 251,
+    "typ": "quiz",
+    "pytanie": "Gdzie odbywają się targi fotograficzne (Fotomesse)?",
+    "odpowiedz": "Odbywają się one m.in. w Kolonii [21]."
+  },
+  {
+    "id": 252,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'klienta' po niemiecku?",
+    "odpowiedz": "To 'der Kunde' [21]."
+  },
+  {
+    "id": 253,
+    "typ": "quiz",
+    "pytanie": "Jak powiedzieć 'pokazać produkty klientom'?",
+    "odpowiedz": "Mówimy 'den Kunden Produkte zeigen' [21]."
+  },
+  {
+    "id": 254,
+    "typ": "quiz",
+    "pytanie": "Gdzie pasuje Video Phone według opisu?",
+    "odpowiedz": "Pasuje do każdej torebki (in jede Handtasche passen) [21]."
+  },
+  {
+    "id": 255,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'internet'?",
+    "odpowiedz": "To 'das Internet' [21]."
+  },
+  {
+    "id": 256,
+    "typ": "quiz",
+    "pytanie": "Co oznacza słowo 'leicht'?",
+    "odpowiedz": "Oznacza ono 'lekki' lub 'łatwy' [21]."
+  },
+  {
+    "id": 257,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'podróż'?",
+    "odpowiedz": "To 'die Reise' [1]."
+  },
+  {
+    "id": 258,
+    "typ": "quiz",
+    "pytanie": "Co to jest 'der Akku'?",
+    "odpowiedz": "To 'akumulator' lub 'bateria do ponownego ładowania' [21]."
+  },
+  {
+    "id": 259,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'ładować'?",
+    "odpowiedz": "To czasownik 'laden' [1]."
+  },
+  {
+    "id": 260,
+    "typ": "teoria",
+    "temat": "Zaimki wskazujące w bierniku",
+    "tresc": "Zaimki wskazujące 'der', 'die', 'das' mogą pełnić funkcję zaimka 'ten/ta/to'. W bierniku (Akkusativ) zmienia się tylko rodzaj męski: 'den' (np. 'Den nehme ich'). Rodzaj żeński 'die' i nijaki 'das' pozostają bez zmian [19]."
+  },
+  {
+    "id": 261,
+    "typ": "quiz",
+    "pytanie": "Kto urodził się 27 stycznia 1756 roku?",
+    "odpowiedz": "Urodził się wtedy Wolfgang Amadeus Mozart [1]."
+  },
+  {
+    "id": 262,
+    "typ": "quiz",
+    "pytanie": "W jakim mieście urodził się Mozart?",
+    "odpowiedz": "Urodził się w Salzburgu [22]."
+  },
+  {
+    "id": 263,
+    "typ": "quiz",
+    "pytanie": "Kim z zawodu był ojciec Mozarta?",
+    "odpowiedz": "Był on kompozytorem (Komponist) [22]."
+  },
+  {
+    "id": 264,
+    "typ": "quiz",
+    "pytanie": "Jakie są słynne dzieła Mozarta wymienione w źródłach?",
+    "odpowiedz": "Są to: 'Czarodziejski flet' (Die Zauberflöte) i 'Symfonia Jowiszowa' (Jupiter-Sinfonie) [22]."
+  },
+  {
+    "id": 265,
+    "typ": "quiz",
+    "pytanie": "W którym roku zmarł Mozart?",
+    "odpowiedz": "Zmarł 5 grudnia 1791 roku [1]."
+  },
+  {
+    "id": 266,
+    "typ": "quiz",
+    "pytanie": "Kiedy urodził się Johann Wolfgang von Goethe?",
+    "odpowiedz": "Urodził się 28 sierpnia 1749 roku [1]."
+  },
+  {
+    "id": 267,
+    "typ": "quiz",
+    "pytanie": "W jakim mieście urodził się Goethe?",
+    "odpowiedz": "Urodził się we Frankfurcie nad Menem [22]."
+  },
+  {
+    "id": 268,
+    "typ": "quiz",
+    "pytanie": "Gdzie Goethe studiował?",
+    "odpowiedz": "Studiował w Lipsku i Strasburgu [22]."
+  },
+  {
+    "id": 269,
+    "typ": "quiz",
+    "pytanie": "W jakim mieście Goethe osiedlił się na stałe?",
+    "odpowiedz": "Osiedlił się na stałe w Weimarze [22]."
+  },
+  {
+    "id": 270,
+    "typ": "quiz",
+    "pytanie": "Jakie stanowisko państwowe piastował Goethe?",
+    "odpowiedz": "Był on ministrem [22]."
+  },
+  {
+    "id": 271,
+    "typ": "quiz",
+    "pytanie": "Jakie są słynne dzieła Goethego wymienione w źródłach?",
+    "odpowiedz": "Są to: 'Werther', 'Faust' i 'Wilhelm Meister' [22]."
+  },
+  {
+    "id": 272,
+    "typ": "quiz",
+    "pytanie": "W którym roku zmarł Goethe?",
+    "odpowiedz": "Zmarł 22 marca 1832 roku [1]."
+  },
+  {
+    "id": 273,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku powiedzieć 'kompozytor'?",
+    "odpowiedz": "To 'der Komponist' [1]."
+  },
+  {
+    "id": 274,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'pisarza'?",
+    "odpowiedz": "To 'der Schriftsteller' [1]."
+  },
+  {
+    "id": 275,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'entdecken'?",
+    "odpowiedz": "Oznacza on 'odkryć' [1]."
+  },
+  {
+    "id": 276,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'wynaleźć'?",
+    "odpowiedz": "To czasownik 'erfinden' [1]."
+  },
+  {
+    "id": 277,
+    "typ": "quiz",
+    "pytanie": "Jak nazywa się nauka o chemii?",
+    "odpowiedz": "To 'die Chemie' [1]."
+  },
+  {
+    "id": 278,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'stolicę' kraju?",
+    "odpowiedz": "To 'die Hauptstadt' [1]."
+  },
+  {
+    "id": 279,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'polityk'?",
+    "odpowiedz": "To 'der Politiker' [1]."
+  },
+  {
+    "id": 280,
+    "typ": "teoria",
+    "temat": "Daty w języku niemieckim",
+    "tresc": "Zapisując daty, używamy liczebników porządkowych. Dzień miesiąca poprzedzamy przyimkiem 'am' (skrót od 'an dem'). Przykłady: 'am ersten Januar', 'am zweiten Januar'. Nazwy miesięcy piszemy wielką literą [1, 23]."
+  },
+  {
+    "id": 281,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'rok'?",
+    "odpowiedz": "To 'das Jahr' [1]."
+  },
+  {
+    "id": 282,
+    "typ": "quiz",
+    "pytanie": "Jak zapisać słownie rok 1749?",
+    "odpowiedz": "Zapisujemy go jako: 'siebzehnhundertneunundvierzig' [23]."
+  },
+  {
+    "id": 283,
+    "typ": "quiz",
+    "pytanie": "Jak zapisać słownie rok 2003?",
+    "odpowiedz": "Zapisujemy go jako: 'zweitausendunddrei' [23]."
+  },
+  {
+    "id": 284,
+    "typ": "quiz",
+    "pytanie": "Co oznacza słowo 'r Alltag'?",
+    "odpowiedz": "Oznacza ono 'codzienność/dzień powszedni' [1]."
+  },
+  {
+    "id": 285,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'niedziela'?",
+    "odpowiedz": "To 'der Sonntag' [18]."
+  },
+  {
+    "id": 286,
+    "typ": "quiz",
+    "pytanie": "Co oznacza 'r Feierabend'?",
+    "odpowiedz": "Oznacza czas wolny po pracy [1]."
+  },
+  {
+    "id": 287,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'dziecko'?",
+    "odpowiedz": "To 'das Kind' [1]."
+  },
+  {
+    "id": 288,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'szczęście'?",
+    "odpowiedz": "To 'das Glück' [1]."
+  },
+  {
+    "id": 289,
+    "typ": "quiz",
+    "pytanie": "Co oznacza przymiotnik 'berühmt'?",
+    "odpowiedz": "Oznacza on 'sławny/słynny' [1]."
+  },
+  {
+    "id": 290,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'zdrowie'?",
+    "odpowiedz": "To 'die Gesundheit' [1]."
+  },
+  {
+    "id": 291,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'chorobę'?",
+    "odpowiedz": "To 'die Krankheit' [1]."
+  },
+  {
+    "id": 292,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'besuchen'?",
+    "odpowiedz": "Oznacza on 'odwiedzać' [1]."
+  },
+  {
+    "id": 293,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'lekarstwo'?",
+    "odpowiedz": "To 'das Medikament' [1]."
+  },
+  {
+    "id": 294,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'ból'?",
+    "odpowiedz": "To 'der Schmerz' (często w liczbie mnogiej: die Schmerzen) [24]."
+  },
+  {
+    "id": 295,
+    "typ": "quiz",
+    "pytanie": "Co oznacza zwrot 'Gute Besserung'?",
+    "odpowiedz": "Oznacza 'Szybkiego powrotu do zdrowia' [25]."
+  },
+  {
+    "id": 296,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'gorączka'?",
+    "odpowiedz": "To 'das Fieber' [1]."
+  },
+  {
+    "id": 297,
+    "typ": "quiz",
+    "pytanie": "Gdzie idziemy, gdy mamy 'Halsschmerzen'?",
+    "odpowiedz": "Idziemy do lekarza (zum Arzt), bo mamy ból gardła [24]."
+  },
+  {
+    "id": 298,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'rauchen'?",
+    "odpowiedz": "Oznacza on 'palić' (np. papierosy) [1]."
+  },
+  {
+    "id": 299,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'zakazany'?",
+    "odpowiedz": "To przymiotnik 'verboten' [1]."
+  },
+  {
+    "id": 300,
+    "typ": "teoria",
+    "temat": "Tworzenie nazw żeńskich zawodów",
+    "tresc": "Większość nazw zawodów męskich zmienia się w żeńskie przez dodanie końcówki '-in'. Często dochodzi również przegłos (Umlaut) nad samogłoską rdzenia. Przykłady: 'der Arzt' -> 'die Ärztin', 'der Koch' -> 'die Köchin', 'der Mechaniker' -> 'die Mechanikerin' [26, 27]."
+  },
+  {
+    "id": 301,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku nazywamy 'region'?",
+    "odpowiedz": "To 'die Region' [1]."
+  },
+  {
+    "id": 302,
+    "typ": "quiz",
+    "pytanie": "Co oznacza 'e Frikadelle'?",
+    "odpowiedz": "To rodzaj kotleta mielonego [28]."
+  },
+  {
+    "id": 303,
+    "typ": "quiz",
+    "pytanie": "Jak w Bawarii (Bayer) nazywa się kotlet mielony?",
+    "odpowiedz": "Nazywa się on 'Fleischpflanzerl' [28]."
+  },
+  {
+    "id": 304,
+    "typ": "quiz",
+    "pytanie": "Jak na kotlet mielony mówi się w Berlinie?",
+    "odpowiedz": "Mówi się 'Bulette' [28]."
+  },
+  {
+    "id": 305,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'bułka' w Berlinie?",
+    "odpowiedz": "To 'Schrippe' [28]."
+  },
+  {
+    "id": 306,
+    "typ": "quiz",
+    "pytanie": "Jak nazywa się bułka w południowych Niemczech i Austrii?",
+    "odpowiedz": "Nazywa się 'Semmel' [28]."
+  },
+  {
+    "id": 307,
+    "typ": "quiz",
+    "pytanie": "Jak brzmi szwajcarska nazwa bułki?",
+    "odpowiedz": "To 'Mutschli' lub 'Semmeli' [28]."
+  },
+  {
+    "id": 308,
+    "typ": "quiz",
+    "pytanie": "Co oznacza słowo 'Schlagsahne'?",
+    "odpowiedz": "To 'bita śmietana' [28]."
+  },
+  {
+    "id": 309,
+    "typ": "quiz",
+    "pytanie": "Jak na bitą śmietanę mówi się w Austrii?",
+    "odpowiedz": "Mówi się 'Schlagobers' [28]."
+  },
+  {
+    "id": 310,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku nazwać 'placki ziemniaczane'?",
+    "odpowiedz": "Można użyć nazw: 'Kartoffelpuffer', 'Reibekuchen' lub 'Reiberdatschi' [28]."
+  },
+  {
+    "id": 311,
+    "typ": "quiz",
+    "pytanie": "W jakim kraju używa się słowa 'Gromperekichelcher'?",
+    "odpowiedz": "Używa się go w Luksemburgu [28]."
+  },
+  {
+    "id": 312,
+    "typ": "quiz",
+    "pytanie": "Jak przywitać się rano w północnych Niemczech (np. Hamburg)?",
+    "odpowiedz": "Używa się zwrotu 'Moin!' [28]."
+  },
+  {
+    "id": 313,
+    "typ": "quiz",
+    "pytanie": "Jak brzmi powitanie 'Szczęść Boże' używane na południu Niemiec?",
+    "odpowiedz": "Brzmi ono 'Grüß Gott!' [28]."
+  },
+  {
+    "id": 314,
+    "typ": "quiz",
+    "pytanie": "Jak Szwajcarzy mówią 'Dzień dobry'?",
+    "odpowiedz": "Mówią 'Grüezi!' [28]."
+  },
+  {
+    "id": 315,
+    "typ": "quiz",
+    "pytanie": "Co oznacza 'Servus!'?",
+    "odpowiedz": "To nieformalne przywitanie lub pożegnanie używane np. w Bawarii [28]."
+  },
+  {
+    "id": 316,
+    "typ": "quiz",
+    "pytanie": "Jak Szwajcarzy żegnają się, mówiąc 'Do widzenia'?",
+    "odpowiedz": "Mówią 'Uf Widerluege!' [28]."
+  },
+  {
+    "id": 317,
+    "typ": "quiz",
+    "pytanie": "Jakie słowo oznacza 'gospodę/knajpę' w Austrii?",
+    "odpowiedz": "Jest to 'Beisl' [28]."
+  },
+  {
+    "id": 318,
+    "typ": "quiz",
+    "pytanie": "Co oznacza niemieckie słowo 'r Hafen'?",
+    "odpowiedz": "Oznacza 'port' [1]."
+  },
+  {
+    "id": 319,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku nazwać 'symbol miasta'?",
+    "odpowiedz": "To 'das Wahrzeichen' [1]."
+  },
+  {
+    "id": 320,
+    "typ": "teoria",
+    "temat": "Przeczenie 'kein' kontra 'nicht'",
+    "tresc": "Przeczenia 'kein' używamy wyłącznie do zaprzeczania rzeczowników z rodzajnikiem nieokreślonym (ein/eine) lub bez rodzajnika (np. 'Ich habe keine Zeit'). Przeczenia 'nicht' używamy do zaprzeczania czasowników, przymiotników oraz rzeczowników z rodzajnikiem określonym (np. 'Das ist nicht der Schrank') [3, 29]."
+  },
+  {
+    "id": 321,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'wechseln'?",
+    "odpowiedz": "Oznacza on 'zmieniać' lub 'wymieniać' [1]."
+  },
+  {
+    "id": 322,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'budzik'?",
+    "odpowiedz": "To 'der Wecker' [1]."
+  },
+  {
+    "id": 323,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'tydzień'?",
+    "odpowiedz": "To 'die Woche' [1]."
+  },
+  {
+    "id": 324,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku powiedzieć 'mieszkać'?",
+    "odpowiedz": "Używamy czasownika 'wohnen' [1]."
+  },
+  {
+    "id": 325,
+    "typ": "quiz",
+    "pytanie": "Co oznacza słowo 'e Wohnung'?",
+    "odpowiedz": "Oznacza ono 'mieszkanie' [1]."
+  },
+  {
+    "id": 326,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku nazwać 'pokój' (ogólnie)?",
+    "odpowiedz": "To 'das Zimmer' [1]."
+  },
+  {
+    "id": 327,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'cukier'?",
+    "odpowiedz": "To 'der Zucker' [1]."
+  },
+  {
+    "id": 328,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'zeichnen'?",
+    "odpowiedz": "Oznacza on 'rysować' [1]."
+  },
+  {
+    "id": 329,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'gazeta'?",
+    "odpowiedz": "To 'die Zeitung' [1]."
+  },
+  {
+    "id": 330,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'cel' (np. podróży)?",
+    "odpowiedz": "To 'das Ziel' [1]."
+  },
+  {
+    "id": 331,
+    "typ": "quiz",
+    "pytanie": "Co oznacza słowo 'zusammen'?",
+    "odpowiedz": "Oznacza ono 'razem' [1]."
+  },
+  {
+    "id": 332,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'liczba'?",
+    "odpowiedz": "To 'die Zahl' [1]."
+  },
+  {
+    "id": 333,
+    "typ": "quiz",
+    "pytanie": "Co oznacza przymiotnik 'zufrieden'?",
+    "odpowiedz": "Oznacza on 'zadowolony' [1]."
+  },
+  {
+    "id": 334,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'pomiędzy'?",
+    "odpowiedz": "To przyimek 'zwischen' [1]."
+  },
+  {
+    "id": 335,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'część' czegoś?",
+    "odpowiedz": "To 'der Teil' [1]."
+  },
+  {
+    "id": 336,
+    "typ": "quiz",
+    "pytanie": "Co oznacza przymiotnik 'teuer'?",
+    "odpowiedz": "Oznacza on 'drogi' [1]."
+  },
+  {
+    "id": 337,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku nazwać 'piłkę nożną' (jako dyscyplinę)?",
+    "odpowiedz": "To 'der Fußball' [1]."
+  },
+  {
+    "id": 338,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'szczęście' w grach/losowaniu?",
+    "odpowiedz": "To 'das Pech' (nieszczęście) lub 'das Glück' [1]."
+  },
+  {
+    "id": 339,
+    "typ": "quiz",
+    "pytanie": "Co oznacza słowo 'r Pechvogel'?",
+    "odpowiedz": "Oznacza 'pechowca' [1]."
+  },
+  {
+    "id": 340,
+    "typ": "teoria",
+    "temat": "Pytania o drogę",
+    "tresc": "Aby zapytać o drogę, używamy zwrotu 'Wie komme ich bitte zu...?' (Jak dojdę do...?). Przyimek 'zu' łączy się z celownikiem (Dativ). Jeśli idziemy do miejsca rodzaju męskiego lub nijakiego, używamy 'zum' (skrót od 'zu dem'), a do żeńskiego 'zur' (skrót od 'zu der') [28]."
+  },
+  {
+    "id": 341,
+    "typ": "quiz",
+    "pytanie": "Gdzie znajduje się katedra 'Kölner Dom'?",
+    "odpowiedz": "Znajduje się w Kolonii [30]."
+  },
+  {
+    "id": 342,
+    "typ": "quiz",
+    "pytanie": "W którym roku rozpoczęto budowę Kölner Dom?",
+    "odpowiedz": "Budowę rozpoczęto w 1248 roku [30]."
+  },
+  {
+    "id": 343,
+    "typ": "quiz",
+    "pytanie": "Co upamiętnia kościół 'Kaiser-Wilhelm-Gedächtniskirche' w Berlinie?",
+    "odpowiedz": "Jego ruina jest pomnikiem pokoju (Denkmal für den Frieden) [30]."
+  },
+  {
+    "id": 344,
+    "typ": "quiz",
+    "pytanie": "Jak mieszkańcy Hamburga nazywają kościół Sankt-Michaeliskirche?",
+    "odpowiedz": "Nazywają go potocznie 'Michel' [30]."
+  },
+  {
+    "id": 345,
+    "typ": "quiz",
+    "pytanie": "Ilu gości dziennie pije piwo w 'Hofbräuhaus' w Monachium?",
+    "odpowiedz": "Pije tam piwo do 30 000 gości dziennie [30]."
+  },
+  {
+    "id": 346,
+    "typ": "quiz",
+    "pytanie": "W jakich latach powstał barokowy zamek Zwinger w Dreźnie?",
+    "odpowiedz": "Powstał w latach 1710–1732 [30]."
+  },
+  {
+    "id": 347,
+    "typ": "quiz",
+    "pytanie": "O której godzinie turyści mogą podziwiać zegar astronomiczny w Bernie?",
+    "odpowiedz": "Zegar wybija pełne godziny, gromadząc turystów co godzinę [30]."
+  },
+  {
+    "id": 348,
+    "typ": "quiz",
+    "pytanie": "Ile metrów wysokości ma 'Riesenrad' w wiedeńskim Praterze?",
+    "odpowiedz": "Ma 61 metrów wysokości [28]."
+  },
+  {
+    "id": 349,
+    "typ": "quiz",
+    "pytanie": "Co jest siedzibą parlamentu miejskiego we Frankfurcie?",
+    "odpowiedz": "Siedzibą jest historyczny budynek 'Römer' [28]."
+  },
+  {
+    "id": 350,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'ruina'?",
+    "odpowiedz": "To 'die Ruine' [30]."
+  },
+  {
+    "id": 351,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'pomnik'?",
+    "odpowiedz": "To 'das Denkmal' [30]."
+  },
+  {
+    "id": 352,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'besichtigen'?",
+    "odpowiedz": "Oznacza on 'zwiedzać' [30]."
+  },
+  {
+    "id": 353,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'miejsce' (plac)?",
+    "odpowiedz": "To 'der Platz' [1]."
+  },
+  {
+    "id": 354,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'wieżę'?",
+    "odpowiedz": "To 'der Turm' [1]."
+  },
+  {
+    "id": 355,
+    "typ": "quiz",
+    "pytanie": "Co oznacza przymiotnik 'stark'?",
+    "odpowiedz": "Oznacza on 'silny' [1]."
+  },
+  {
+    "id": 356,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'pokój/pokój na świecie'?",
+    "odpowiedz": "To 'der Frieden' [30]."
+  },
+  {
+    "id": 357,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'kraj związkowy'?",
+    "odpowiedz": "To 'das Bundesland' [1]."
+  },
+  {
+    "id": 358,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'brauen'?",
+    "odpowiedz": "Oznacza on 'warzyć' (piwo) [30]."
+  },
+  {
+    "id": 359,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'miasto'?",
+    "odpowiedz": "To 'die Stadt' [1]."
+  },
+  {
+    "id": 360,
+    "typ": "teoria",
+    "temat": "Szyk zdania oznajmującego (Aussagesatz)",
+    "tresc": "W zdaniu oznajmującym czasownik odmienny zawsze zajmuje drugie miejsce. Na pierwszym miejscu (Vorfeld) może znajdować się podmiot (np. 'Ich esse'), okolicznik czasu (np. 'Morgens isst Herr Kaiser') lub dopełnienie (np. 'Fisch esse ich gern'). Reszta elementów zdania wędruje na dalsze pozycje [15]."
+  },
+  {
+    "id": 361,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'śniadanie'?",
+    "odpowiedz": "To 'das Frühstück' [12]."
+  },
+  {
+    "id": 362,
+    "typ": "quiz",
+    "pytanie": "Jak powiedzieć 'rano'?",
+    "odpowiedz": "Mówimy 'morgens' [15]."
+  },
+  {
+    "id": 363,
+    "typ": "quiz",
+    "pytanie": "Co oznacza słowo 'danach'?",
+    "odpowiedz": "Oznacza ono 'potem/następnie' [15]."
+  },
+  {
+    "id": 364,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'często'?",
+    "odpowiedz": "To przysłówek 'oft' [15]."
+  },
+  {
+    "id": 365,
+    "typ": "quiz",
+    "pytanie": "Jak powiedzieć 'chętnie'?",
+    "odpowiedz": "Używamy słowa 'gern' [15]."
+  },
+  {
+    "id": 366,
+    "typ": "quiz",
+    "pytanie": "Co oznacza przymiotnik 'klein'?",
+    "odpowiedz": "Oznacza on 'mały' [15]."
+  },
+  {
+    "id": 367,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'żonaty/zamężna'?",
+    "odpowiedz": "To przymiotnik 'verheiratet' [15]."
+  },
+  {
+    "id": 368,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'dzieci' (liczba mnoga)?",
+    "odpowiedz": "To 'die Kinder' [15]."
+  },
+  {
+    "id": 369,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'jeszcze'?",
+    "odpowiedz": "To słowo 'noch' [15]."
+  },
+  {
+    "id": 370,
+    "typ": "quiz",
+    "pytanie": "Co oznacza 'etwas'?",
+    "odpowiedz": "Oznacza ono 'coś' lub 'trochę' [15]."
+  },
+  {
+    "id": 371,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'mięso'?",
+    "odpowiedz": "To 'das Fleisch' [15]."
+  },
+  {
+    "id": 372,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'herbatę'?",
+    "odpowiedz": "To 'der Tee' [15]."
+  },
+  {
+    "id": 373,
+    "typ": "quiz",
+    "pytanie": "Co oznacza tryb rozkazujący 'Nehmen Sie!'?",
+    "odpowiedz": "Oznacza 'Proszę wziąć!' (forma grzecznościowa) [15]."
+  },
+  {
+    "id": 374,
+    "typ": "quiz",
+    "pytanie": "Jak brzmi tryb rozkazujący 'weź!' dla osoby 'ty'?",
+    "odpowiedz": "Brzmi on 'Nimm!' [15]."
+  },
+  {
+    "id": 375,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'ryba'?",
+    "odpowiedz": "To 'der Fisch' [15]."
+  },
+  {
+    "id": 376,
+    "typ": "quiz",
+    "pytanie": "Co oznacza zaimek 'das' w zdaniu 'Ist das Maja Matter?'",
+    "odpowiedz": "Oznacza 'to' (zaimek wskazujący) [15]."
+  },
+  {
+    "id": 377,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'dwie' (liczba)?",
+    "odpowiedz": "To 'zwei' [15]."
+  },
+  {
+    "id": 378,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'rodziców'?",
+    "odpowiedz": "To 'die Eltern' [1]."
+  },
+  {
+    "id": 379,
+    "typ": "quiz",
+    "pytanie": "Co oznacza przymiotnik 'süß'?",
+    "odpowiedz": "Oznacza on 'słodki' [1]."
+  },
+  {
+    "id": 380,
+    "typ": "teoria",
+    "temat": "Liczba mnoga rzeczowników – końcówki",
+    "tresc": "Tworzenie liczby mnogiej w języku niemieckim nie opiera się na jednej zasadzie. Rzeczowniki mogą przyjmować końcówki: '-e' (der Tisch -> die Tische), '-n/-en' (die Batterie -> die Batterien), '-er' (das Bild -> die Bilder), '-s' (das Foto -> die Fotos) lub nie zmieniać końcówki wcale, często zyskując przegłos (der Apfel -> die Äpfel) [31, 32]."
+  },
+  {
+    "id": 381,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'nóż'?",
+    "odpowiedz": "To 'das Messer' [1]."
+  },
+  {
+    "id": 382,
+    "typ": "quiz",
+    "pytanie": "Co oznacza słowo 'r Akzent'?",
+    "odpowiedz": "Oznacza ono 'akcent' [1]."
+  },
+  {
+    "id": 383,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'alkohol'?",
+    "odpowiedz": "To 'der Alkohol' [1]."
+  },
+  {
+    "id": 384,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'jabłko'?",
+    "odpowiedz": "To 'der Apfel' [1]."
+  },
+  {
+    "id": 385,
+    "typ": "quiz",
+    "pytanie": "Co oznacza przymiotnik 'attraktiv'?",
+    "odpowiedz": "Oznacza on 'atrakcyjny' [1]."
+  },
+  {
+    "id": 386,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'oko'?",
+    "odpowiedz": "To 'das Auge' [1]."
+  },
+  {
+    "id": 387,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'piekarza'?",
+    "odpowiedz": "To 'der Bäcker' [1]."
+  },
+  {
+    "id": 388,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'baden'?",
+    "odpowiedz": "Oznacza on 'kąpać się' [1]."
+  },
+  {
+    "id": 389,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'noga'?",
+    "odpowiedz": "To 'das Bein' [33]."
+  },
+  {
+    "id": 390,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'górę'?",
+    "odpowiedz": "To 'der Berg' [33]."
+  },
+  {
+    "id": 391,
+    "typ": "quiz",
+    "pytanie": "Co oznacza przymiotnik 'blau'?",
+    "odpowiedz": "Oznacza on 'niebieski' [34]."
+  },
+  {
+    "id": 392,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'krew'?",
+    "odpowiedz": "To 'das Blut' [35]."
+  },
+  {
+    "id": 393,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'klatkę piersiową'?",
+    "odpowiedz": "To 'die Brust' [35]."
+  },
+  {
+    "id": 394,
+    "typ": "quiz",
+    "pytanie": "Co oznacza czasownik 'buchstabieren'?",
+    "odpowiedz": "Oznacza on 'literować' [35]."
+  },
+  {
+    "id": 395,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'kolega'?",
+    "odpowiedz": "To 'der Kollege' [1]."
+  },
+  {
+    "id": 396,
+    "typ": "quiz",
+    "pytanie": "Jak nazwać 'szefa'?",
+    "odpowiedz": "To 'der Chef' [36]."
+  },
+  {
+    "id": 397,
+    "typ": "quiz",
+    "pytanie": "Co oznacza 'e Chance'?",
+    "odpowiedz": "Oznacza ona 'szansę' [36]."
+  },
+  {
+    "id": 398,
+    "typ": "quiz",
+    "pytanie": "Jak po niemiecku jest 'taniec'?",
+    "odpowiedz": "To 'der Tanz' [1]."
+  },
+  {
+    "id": 399,
+    "typ": "quiz",
+    "pytanie": "Co oznacza przymiotnik 'dunkel'?",
+    "odpowiedz": "Oznacza on 'ciemny' [1]."
+  },
+  {
+    "id": 400,
+    "typ": "teoria",
+    "temat": "Pytania o właściwości (W-Frage: Wie?)",
+    "tresc": "Pytania zaczynające się od 'Wie' (Jak) służą do określania cech i właściwości przedmiotów lub osób. Możemy je łączyć z przymiotnikami, np.: 'Wie teuer ist der denn?' (Jak drogi on jest?) lub 'Wie groß jest das Zimmer?' (Jak duże jest to pomieszczenie?) [7, 8]."
+  }
+]

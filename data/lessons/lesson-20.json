@@ -1,0 +1,125 @@
+{
+  "id": "lesson-20",
+  "title": "Pytania o właściwości (W-Frage: Wie?)",
+  "theory": {
+    "id": 400,
+    "topic": "Pytania o właściwości (W-Frage: Wie?)",
+    "content": "Pytania zaczynające się od 'Wie' (Jak) służą do określania cech i właściwości przedmiotów lub osób. Możemy je łączyć z przymiotnikami, np.: 'Wie teuer ist der denn?' (Jak drogi on jest?) lub 'Wie groß jest das Zimmer?' (Jak duże jest to pomieszczenie?) [7, 8]."
+  },
+  "questions": [
+    {
+      "id": 381,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'nóż'?",
+      "answer": "To 'das Messer' [1]."
+    },
+    {
+      "id": 382,
+      "type": "text",
+      "question": "Co oznacza słowo 'r Akzent'?",
+      "answer": "Oznacza ono 'akcent' [1]."
+    },
+    {
+      "id": 383,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'alkohol'?",
+      "answer": "To 'der Alkohol' [1]."
+    },
+    {
+      "id": 384,
+      "type": "text",
+      "question": "Jak nazwać 'jabłko'?",
+      "answer": "To 'der Apfel' [1]."
+    },
+    {
+      "id": 385,
+      "type": "text",
+      "question": "Co oznacza przymiotnik 'attraktiv'?",
+      "answer": "Oznacza on 'atrakcyjny' [1]."
+    },
+    {
+      "id": 386,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'oko'?",
+      "answer": "To 'das Auge' [1]."
+    },
+    {
+      "id": 387,
+      "type": "text",
+      "question": "Jak nazwać 'piekarza'?",
+      "answer": "To 'der Bäcker' [1]."
+    },
+    {
+      "id": 388,
+      "type": "text",
+      "question": "Co oznacza czasownik 'baden'?",
+      "answer": "Oznacza on 'kąpać się' [1]."
+    },
+    {
+      "id": 389,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'noga'?",
+      "answer": "To 'das Bein' [33]."
+    },
+    {
+      "id": 390,
+      "type": "text",
+      "question": "Jak nazwać 'górę'?",
+      "answer": "To 'der Berg' [33]."
+    },
+    {
+      "id": 391,
+      "type": "text",
+      "question": "Co oznacza przymiotnik 'blau'?",
+      "answer": "Oznacza on 'niebieski' [34]."
+    },
+    {
+      "id": 392,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'krew'?",
+      "answer": "To 'das Blut' [35]."
+    },
+    {
+      "id": 393,
+      "type": "text",
+      "question": "Jak nazwać 'klatkę piersiową'?",
+      "answer": "To 'die Brust' [35]."
+    },
+    {
+      "id": 394,
+      "type": "text",
+      "question": "Co oznacza czasownik 'buchstabieren'?",
+      "answer": "Oznacza on 'literować' [35]."
+    },
+    {
+      "id": 395,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'kolega'?",
+      "answer": "To 'der Kollege' [1]."
+    },
+    {
+      "id": 396,
+      "type": "text",
+      "question": "Jak nazwać 'szefa'?",
+      "answer": "To 'der Chef' [36]."
+    },
+    {
+      "id": 397,
+      "type": "text",
+      "question": "Co oznacza 'e Chance'?",
+      "answer": "Oznacza ona 'szansę' [36]."
+    },
+    {
+      "id": 398,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'taniec'?",
+      "answer": "To 'der Tanz' [1]."
+    },
+    {
+      "id": 399,
+      "type": "text",
+      "question": "Co oznacza przymiotnik 'dunkel'?",
+      "answer": "Oznacza on 'ciemny' [1]."
+    }
+  ]
+}

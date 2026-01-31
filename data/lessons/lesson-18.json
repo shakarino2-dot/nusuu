@@ -1,0 +1,125 @@
+{
+  "id": "lesson-18",
+  "title": "Szyk zdania oznajmującego (Aussagesatz)",
+  "theory": {
+    "id": 360,
+    "topic": "Szyk zdania oznajmującego (Aussagesatz)",
+    "content": "W zdaniu oznajmującym czasownik odmienny zawsze zajmuje drugie miejsce. Na pierwszym miejscu (Vorfeld) może znajdować się podmiot (np. 'Ich esse'), okolicznik czasu (np. 'Morgens isst Herr Kaiser') lub dopełnienie (np. 'Fisch esse ich gern'). Reszta elementów zdania wędruje na dalsze pozycje [15]."
+  },
+  "questions": [
+    {
+      "id": 341,
+      "type": "text",
+      "question": "Gdzie znajduje się katedra 'Kölner Dom'?",
+      "answer": "Znajduje się w Kolonii [30]."
+    },
+    {
+      "id": 342,
+      "type": "text",
+      "question": "W którym roku rozpoczęto budowę Kölner Dom?",
+      "answer": "Budowę rozpoczęto w 1248 roku [30]."
+    },
+    {
+      "id": 343,
+      "type": "text",
+      "question": "Co upamiętnia kościół 'Kaiser-Wilhelm-Gedächtniskirche' w Berlinie?",
+      "answer": "Jego ruina jest pomnikiem pokoju (Denkmal für den Frieden) [30]."
+    },
+    {
+      "id": 344,
+      "type": "text",
+      "question": "Jak mieszkańcy Hamburga nazywają kościół Sankt-Michaeliskirche?",
+      "answer": "Nazywają go potocznie 'Michel' [30]."
+    },
+    {
+      "id": 345,
+      "type": "text",
+      "question": "Ilu gości dziennie pije piwo w 'Hofbräuhaus' w Monachium?",
+      "answer": "Pije tam piwo do 30 000 gości dziennie [30]."
+    },
+    {
+      "id": 346,
+      "type": "text",
+      "question": "W jakich latach powstał barokowy zamek Zwinger w Dreźnie?",
+      "answer": "Powstał w latach 1710–1732 [30]."
+    },
+    {
+      "id": 347,
+      "type": "text",
+      "question": "O której godzinie turyści mogą podziwiać zegar astronomiczny w Bernie?",
+      "answer": "Zegar wybija pełne godziny, gromadząc turystów co godzinę [30]."
+    },
+    {
+      "id": 348,
+      "type": "text",
+      "question": "Ile metrów wysokości ma 'Riesenrad' w wiedeńskim Praterze?",
+      "answer": "Ma 61 metrów wysokości [28]."
+    },
+    {
+      "id": 349,
+      "type": "text",
+      "question": "Co jest siedzibą parlamentu miejskiego we Frankfurcie?",
+      "answer": "Siedzibą jest historyczny budynek 'Römer' [28]."
+    },
+    {
+      "id": 350,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'ruina'?",
+      "answer": "To 'die Ruine' [30]."
+    },
+    {
+      "id": 351,
+      "type": "text",
+      "question": "Jak nazwać 'pomnik'?",
+      "answer": "To 'das Denkmal' [30]."
+    },
+    {
+      "id": 352,
+      "type": "text",
+      "question": "Co oznacza czasownik 'besichtigen'?",
+      "answer": "Oznacza on 'zwiedzać' [30]."
+    },
+    {
+      "id": 353,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'miejsce' (plac)?",
+      "answer": "To 'der Platz' [1]."
+    },
+    {
+      "id": 354,
+      "type": "text",
+      "question": "Jak nazwać 'wieżę'?",
+      "answer": "To 'der Turm' [1]."
+    },
+    {
+      "id": 355,
+      "type": "text",
+      "question": "Co oznacza przymiotnik 'stark'?",
+      "answer": "Oznacza on 'silny' [1]."
+    },
+    {
+      "id": 356,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'pokój/pokój na świecie'?",
+      "answer": "To 'der Frieden' [30]."
+    },
+    {
+      "id": 357,
+      "type": "text",
+      "question": "Jak nazwać 'kraj związkowy'?",
+      "answer": "To 'das Bundesland' [1]."
+    },
+    {
+      "id": 358,
+      "type": "text",
+      "question": "Co oznacza czasownik 'brauen'?",
+      "answer": "Oznacza on 'warzyć' (piwo) [30]."
+    },
+    {
+      "id": 359,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'miasto'?",
+      "answer": "To 'die Stadt' [1]."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "lesson-17",
+  "title": "Pytania o drogę",
+  "theory": {
+    "id": 340,
+    "topic": "Pytania o drogę",
+    "content": "Aby zapytać o drogę, używamy zwrotu 'Wie komme ich bitte zu...?' (Jak dojdę do...?). Przyimek 'zu' łączy się z celownikiem (Dativ). Jeśli idziemy do miejsca rodzaju męskiego lub nijakiego, używamy 'zum' (skrót od 'zu dem'), a do żeńskiego 'zur' (skrót od 'zu der') [28]."
+  },
+  "questions": [
+    {
+      "id": 321,
+      "type": "text",
+      "question": "Co oznacza czasownik 'wechseln'?",
+      "answer": "Oznacza on 'zmieniać' lub 'wymieniać' [1]."
+    },
+    {
+      "id": 322,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'budzik'?",
+      "answer": "To 'der Wecker' [1]."
+    },
+    {
+      "id": 323,
+      "type": "text",
+      "question": "Jak nazwać 'tydzień'?",
+      "answer": "To 'die Woche' [1]."
+    },
+    {
+      "id": 324,
+      "type": "text",
+      "question": "Jak po niemiecku powiedzieć 'mieszkać'?",
+      "answer": "Używamy czasownika 'wohnen' [1]."
+    },
+    {
+      "id": 325,
+      "type": "text",
+      "question": "Co oznacza słowo 'e Wohnung'?",
+      "answer": "Oznacza ono 'mieszkanie' [1]."
+    },
+    {
+      "id": 326,
+      "type": "text",
+      "question": "Jak po niemiecku nazwać 'pokój' (ogólnie)?",
+      "answer": "To 'das Zimmer' [1]."
+    },
+    {
+      "id": 327,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'cukier'?",
+      "answer": "To 'der Zucker' [1]."
+    },
+    {
+      "id": 328,
+      "type": "text",
+      "question": "Co oznacza czasownik 'zeichnen'?",
+      "answer": "Oznacza on 'rysować' [1]."
+    },
+    {
+      "id": 329,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'gazeta'?",
+      "answer": "To 'die Zeitung' [1]."
+    },
+    {
+      "id": 330,
+      "type": "text",
+      "question": "Jak nazwać 'cel' (np. podróży)?",
+      "answer": "To 'das Ziel' [1]."
+    },
+    {
+      "id": 331,
+      "type": "text",
+      "question": "Co oznacza słowo 'zusammen'?",
+      "answer": "Oznacza ono 'razem' [1]."
+    },
+    {
+      "id": 332,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'liczba'?",
+      "answer": "To 'die Zahl' [1]."
+    },
+    {
+      "id": 333,
+      "type": "text",
+      "question": "Co oznacza przymiotnik 'zufrieden'?",
+      "answer": "Oznacza on 'zadowolony' [1]."
+    },
+    {
+      "id": 334,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'pomiędzy'?",
+      "answer": "To przyimek 'zwischen' [1]."
+    },
+    {
+      "id": 335,
+      "type": "text",
+      "question": "Jak nazwać 'część' czegoś?",
+      "answer": "To 'der Teil' [1]."
+    },
+    {
+      "id": 336,
+      "type": "text",
+      "question": "Co oznacza przymiotnik 'teuer'?",
+      "answer": "Oznacza on 'drogi' [1]."
+    },
+    {
+      "id": 337,
+      "type": "text",
+      "question": "Jak po niemiecku nazwać 'piłkę nożną' (jako dyscyplinę)?",
+      "answer": "To 'der Fußball' [1]."
+    },
+    {
+      "id": 338,
+      "type": "text",
+      "question": "Jak nazwać 'szczęście' w grach/losowaniu?",
+      "answer": "To 'das Pech' (nieszczęście) lub 'das Glück' [1]."
+    },
+    {
+      "id": 339,
+      "type": "text",
+      "question": "Co oznacza słowo 'r Pechvogel'?",
+      "answer": "Oznacza 'pechowca' [1]."
+    }
+  ]
+}

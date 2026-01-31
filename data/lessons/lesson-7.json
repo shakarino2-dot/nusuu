@@ -1,0 +1,125 @@
+{
+  "id": "lesson-7",
+  "title": "Biernik (Akkusativ) z przyimkiem 'für'",
+  "theory": {
+    "id": 140,
+    "topic": "Biernik (Akkusativ) z przyimkiem 'für'",
+    "content": "Przyimek 'für' zawsze wymaga użycia biernika (Akkusativ). Oznacza to, że rodzajnik męski zmienia się z 'der' na 'den' (np. 'für den Flur'), natomiast rodzajniki żeńskie 'die' i nijakie 'das' pozostają bez zmian [5]."
+  },
+  "questions": [
+    {
+      "id": 121,
+      "type": "text",
+      "question": "Ile lat ma Michael Wächter?",
+      "answer": "Michael Wächter ma 22 lata [4]."
+    },
+    {
+      "id": 122,
+      "type": "text",
+      "question": "Kim z zawodu jest Michael Wächter?",
+      "answer": "Jest on bankowcem (Bankkaufmann) [4]."
+    },
+    {
+      "id": 123,
+      "type": "text",
+      "question": "Gdzie obecnie mieszka Michael Wächter?",
+      "answer": "Obecnie mieszka u swoich rodziców [4]."
+    },
+    {
+      "id": 124,
+      "type": "text",
+      "question": "Kiedy Michael Wächter planuje się przeprowadzić?",
+      "answer": "Planuje przeprowadzkę za dwa tygodnie [4]."
+    },
+    {
+      "id": 125,
+      "type": "text",
+      "question": "Jakie pomieszczenia znajdują się w nowym mieszkaniu Michaela?",
+      "answer": "Mieszkanie ma pokój dzienny, sypialnię, łazienkę, kuchnię i przedpokój [4]."
+    },
+    {
+      "id": 126,
+      "type": "text",
+      "question": "Czy łazienka w nowym mieszkaniu Michaela ma okno?",
+      "answer": "Nie, łazienka jest stara i nie ma okna [4]."
+    },
+    {
+      "id": 127,
+      "type": "text",
+      "question": "Co Michael ma w pokoju dziennym, czego nie ma w innych pokojach?",
+      "answer": "Ma tam balkon [4]."
+    },
+    {
+      "id": 128,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'sypialnia'?",
+      "answer": "To 'das Schlafzimmer' [4]."
+    },
+    {
+      "id": 129,
+      "type": "text",
+      "question": "Jak nazywamy 'pokój dziecięcy'?",
+      "answer": "To 'das Kinderzimmer' [4]."
+    },
+    {
+      "id": 130,
+      "type": "text",
+      "question": "Jak po niemiecku nazwać 'gabinet' lub 'pokój do pracy'?",
+      "answer": "To 'das Arbeitszimmer' [4]."
+    },
+    {
+      "id": 131,
+      "type": "text",
+      "question": "Co to jest 'das Treppenhaus'?",
+      "answer": "Oznacza to 'klatkę schodową' [4]."
+    },
+    {
+      "id": 132,
+      "type": "text",
+      "question": "Jak nazywa się 'pomieszczenie hobbystyczne'?",
+      "answer": "To 'der Hobbyraum' [4]."
+    },
+    {
+      "id": 133,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'piwnica'?",
+      "answer": "To 'der Keller' [4]."
+    },
+    {
+      "id": 134,
+      "type": "text",
+      "question": "Jak nazwać 'przedpokój'?",
+      "answer": "To 'der Flur' [4]."
+    },
+    {
+      "id": 135,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'taras'?",
+      "answer": "To 'die Terrasse' [4]."
+    },
+    {
+      "id": 136,
+      "type": "text",
+      "question": "Jak nazywa się szafa na ubrania?",
+      "answer": "To 'der Kleiderschrank' [5]."
+    },
+    {
+      "id": 137,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'komoda'?",
+      "answer": "To 'die Kommode' [5]."
+    },
+    {
+      "id": 138,
+      "type": "text",
+      "question": "Jak nazywamy sofę/kanapę?",
+      "answer": "Używamy słowa 'die Couch' [5]."
+    },
+    {
+      "id": 139,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'fotel'?",
+      "answer": "To 'der Sessel' [5]."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "lesson-11",
+  "title": "Celownik (Dativ) – zaimki osobowe",
+  "theory": {
+    "id": 220,
+    "topic": "Celownik (Dativ) – zaimki osobowe",
+    "content": "Zaimki osobowe w celowniku zmieniają swoją formę. Dla 'er' (on) i 'es' (ono) forma to 'ihm', dla 'sie' (ona) to 'ihr', a dla liczby mnogiej 'sie' (oni) to 'ihnen'. Formy te są często używane przy czasownikach takich jak 'schenken' (darować/dawać w prezencie) [11]."
+  },
+  "questions": [
+    {
+      "id": 201,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'biblioteka'?",
+      "answer": "To 'die Bibliothek' [16]."
+    },
+    {
+      "id": 202,
+      "type": "text",
+      "question": "Gdzie można kupić leki?",
+      "answer": "W aptece (in der Apotheke) [16]."
+    },
+    {
+      "id": 203,
+      "type": "text",
+      "question": "Jak nazywa się miejsce, gdzie naprawia się auta?",
+      "answer": "To 'die Autowerkstatt' [16]."
+    },
+    {
+      "id": 204,
+      "type": "text",
+      "question": "Gdzie można wypożyczyć książki?",
+      "answer": "W bibliotece (in der Stadtbibliothek) [16]."
+    },
+    {
+      "id": 205,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'cukiernia' lub 'piekarnia'?",
+      "answer": "To 'die Bäckerei' [16]."
+    },
+    {
+      "id": 206,
+      "type": "text",
+      "question": "Gdzie można obejrzeć film w mieście?",
+      "answer": "W kinie (im Kino) [16]."
+    },
+    {
+      "id": 207,
+      "type": "text",
+      "question": "Jak nazywa się sklep mięsny?",
+      "answer": "To 'die Metzgerei' [16]."
+    },
+    {
+      "id": 208,
+      "type": "text",
+      "question": "Gdzie można nadać list?",
+      "answer": "Na poczcie (auf der Post) [16]."
+    },
+    {
+      "id": 209,
+      "type": "text",
+      "question": "Jak po niemiecku nazwać 'biuro podróży'?",
+      "answer": "To 'das Reisebüro' [16]."
+    },
+    {
+      "id": 210,
+      "type": "text",
+      "question": "Gdzie w Neustadt znajduje się kościół?",
+      "answer": "Jest to kościół 'Sankt Agnes' [16]."
+    },
+    {
+      "id": 211,
+      "type": "text",
+      "question": "Co oznacza 'das Fotostudio'?",
+      "answer": "Oznacza 'studio fotograficzne' [16]."
+    },
+    {
+      "id": 212,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'czystość/sprzątanie' (punkt usługowy)?",
+      "answer": "To 'die Reinigung' [16]."
+    },
+    {
+      "id": 213,
+      "type": "text",
+      "question": "Gdzie można potańczyć?",
+      "answer": "W dyskotece (in der Diskothek) [16]."
+    },
+    {
+      "id": 214,
+      "type": "text",
+      "question": "Co można robić w 'Stadtmuseum'?",
+      "answer": "Można tam oglądać wystawy muzealne [16]."
+    },
+    {
+      "id": 215,
+      "type": "text",
+      "question": "Jak nazwać stoisko z napojami?",
+      "answer": "To 'der Getränkemarkt' [16]."
+    },
+    {
+      "id": 216,
+      "type": "text",
+      "question": "Co to jest 'die Telefonzelle'?",
+      "answer": "To 'budka telefoniczna' [16]."
+    },
+    {
+      "id": 217,
+      "type": "text",
+      "question": "Gdzie w Neustadt można pójść na basen?",
+      "answer": "Do 'Schwimmbad' [16]."
+    },
+    {
+      "id": 218,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'ratusz'?",
+      "answer": "To 'das Rathaus' [16]."
+    },
+    {
+      "id": 219,
+      "type": "text",
+      "question": "Jak nazwać sklep z kwiatami?",
+      "answer": "To 'das Blumengeschäft' [16]."
+    }
+  ]
+}

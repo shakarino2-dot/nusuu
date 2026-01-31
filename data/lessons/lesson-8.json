@@ -1,0 +1,125 @@
+{
+  "id": "lesson-8",
+  "title": "Stopniowanie przymiotników – nieregularne formy",
+  "theory": {
+    "id": 160,
+    "topic": "Stopniowanie przymiotników – nieregularne formy",
+    "content": "Większość przymiotników stopniuje się regularnie, ale istnieją wyjątki. Przymiotnik 'gut' (dobry) stopniuje się jako 'besser' (lepszy) i 'am besten' (najlepszy). Przymiotnik 'hoch' (wysoki) zmienia się w 'höher' i 'am höchsten' [9]."
+  },
+  "questions": [
+    {
+      "id": 141,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'lustro'?",
+      "answer": "To 'der Spiegel' [5]."
+    },
+    {
+      "id": 142,
+      "type": "text",
+      "question": "Jak nazwać 'stół jadalny'?",
+      "answer": "To 'der Esstisch' [5]."
+    },
+    {
+      "id": 143,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'zasłona'?",
+      "answer": "To 'der Vorhang' [5]."
+    },
+    {
+      "id": 144,
+      "type": "text",
+      "question": "Jak nazwać 'regał na książki'?",
+      "answer": "To 'das Bücherregal' [5]."
+    },
+    {
+      "id": 145,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'dywan'?",
+      "answer": "To 'der Teppich' [5]."
+    },
+    {
+      "id": 146,
+      "type": "text",
+      "question": "Jak nazwać 'biurko'?",
+      "answer": "To 'der Schreibtisch' [5]."
+    },
+    {
+      "id": 147,
+      "type": "text",
+      "question": "Co Michael Wächter mówi o swoich relacjach z matką?",
+      "answer": "Mówi, że jego matka bardzo lubi dzieci, ale dla niej on sam wciąż jest dzieckiem [6]."
+    },
+    {
+      "id": 148,
+      "type": "text",
+      "question": "Czy Michael może w domu słuchać muzyki?",
+      "answer": "Nie, twierdzi, że w domu nie wolno mu słuchać muzyki [6]."
+    },
+    {
+      "id": 149,
+      "type": "text",
+      "question": "Jak Michael czuje się po przeprowadzce?",
+      "answer": "Czuje się teraz bardzo szczęśliwy i wolny [6]."
+    },
+    {
+      "id": 150,
+      "type": "text",
+      "question": "Dlaczego Michael chciał się wyprowadzić z domu?",
+      "answer": "Chciał w końcu zacząć żyć własnym życiem [6]."
+    },
+    {
+      "id": 151,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'lampa stojąca'?",
+      "answer": "To 'die Stehlampe' [5]."
+    },
+    {
+      "id": 152,
+      "type": "text",
+      "question": "Jak zapytać 'Co o tym sądzisz?' używając czasownika 'finden'?",
+      "answer": "Pytamy 'Wie findest du das?' [7]."
+    },
+    {
+      "id": 153,
+      "type": "text",
+      "question": "Jak powiedzieć 'Uważam, że to jest brzydkie'?",
+      "answer": "Mówimy 'Ich finde das hässlich' [7]."
+    },
+    {
+      "id": 154,
+      "type": "text",
+      "question": "Jakie słowo oznacza, że coś jest 'praktyczne'?",
+      "answer": "To przymiotnik 'praktisch' [7]."
+    },
+    {
+      "id": 155,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'wygodny'?",
+      "answer": "To przymiotnik 'bequem' [7]."
+    },
+    {
+      "id": 156,
+      "type": "text",
+      "question": "Jak powiedzieć 'To wygląda dobrze'?",
+      "answer": "Mówimy 'Das sieht gut aus' [8]."
+    },
+    {
+      "id": 157,
+      "type": "text",
+      "question": "Co oznacza zwrot 'zu groß'?",
+      "answer": "Oznacza 'za duży' [8]."
+    },
+    {
+      "id": 158,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'tani'?",
+      "answer": "To przymiotnik 'billig' [9]."
+    },
+    {
+      "id": 159,
+      "type": "text",
+      "question": "Jak nazwać 'pralkę'?",
+      "answer": "To 'die Waschmaschine' [3]."
+    }
+  ]
+}

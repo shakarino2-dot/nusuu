@@ -1,0 +1,125 @@
+{
+  "id": "lesson-14",
+  "title": "Daty w języku niemieckim",
+  "theory": {
+    "id": 280,
+    "topic": "Daty w języku niemieckim",
+    "content": "Zapisując daty, używamy liczebników porządkowych. Dzień miesiąca poprzedzamy przyimkiem 'am' (skrót od 'an dem'). Przykłady: 'am ersten Januar', 'am zweiten Januar'. Nazwy miesięcy piszemy wielką literą [1, 23]."
+  },
+  "questions": [
+    {
+      "id": 261,
+      "type": "text",
+      "question": "Kto urodził się 27 stycznia 1756 roku?",
+      "answer": "Urodził się wtedy Wolfgang Amadeus Mozart [1]."
+    },
+    {
+      "id": 262,
+      "type": "text",
+      "question": "W jakim mieście urodził się Mozart?",
+      "answer": "Urodził się w Salzburgu [22]."
+    },
+    {
+      "id": 263,
+      "type": "text",
+      "question": "Kim z zawodu był ojciec Mozarta?",
+      "answer": "Był on kompozytorem (Komponist) [22]."
+    },
+    {
+      "id": 264,
+      "type": "text",
+      "question": "Jakie są słynne dzieła Mozarta wymienione w źródłach?",
+      "answer": "Są to: 'Czarodziejski flet' (Die Zauberflöte) i 'Symfonia Jowiszowa' (Jupiter-Sinfonie) [22]."
+    },
+    {
+      "id": 265,
+      "type": "text",
+      "question": "W którym roku zmarł Mozart?",
+      "answer": "Zmarł 5 grudnia 1791 roku [1]."
+    },
+    {
+      "id": 266,
+      "type": "text",
+      "question": "Kiedy urodził się Johann Wolfgang von Goethe?",
+      "answer": "Urodził się 28 sierpnia 1749 roku [1]."
+    },
+    {
+      "id": 267,
+      "type": "text",
+      "question": "W jakim mieście urodził się Goethe?",
+      "answer": "Urodził się we Frankfurcie nad Menem [22]."
+    },
+    {
+      "id": 268,
+      "type": "text",
+      "question": "Gdzie Goethe studiował?",
+      "answer": "Studiował w Lipsku i Strasburgu [22]."
+    },
+    {
+      "id": 269,
+      "type": "text",
+      "question": "W jakim mieście Goethe osiedlił się na stałe?",
+      "answer": "Osiedlił się na stałe w Weimarze [22]."
+    },
+    {
+      "id": 270,
+      "type": "text",
+      "question": "Jakie stanowisko państwowe piastował Goethe?",
+      "answer": "Był on ministrem [22]."
+    },
+    {
+      "id": 271,
+      "type": "text",
+      "question": "Jakie są słynne dzieła Goethego wymienione w źródłach?",
+      "answer": "Są to: 'Werther', 'Faust' i 'Wilhelm Meister' [22]."
+    },
+    {
+      "id": 272,
+      "type": "text",
+      "question": "W którym roku zmarł Goethe?",
+      "answer": "Zmarł 22 marca 1832 roku [1]."
+    },
+    {
+      "id": 273,
+      "type": "text",
+      "question": "Jak po niemiecku powiedzieć 'kompozytor'?",
+      "answer": "To 'der Komponist' [1]."
+    },
+    {
+      "id": 274,
+      "type": "text",
+      "question": "Jak nazwać 'pisarza'?",
+      "answer": "To 'der Schriftsteller' [1]."
+    },
+    {
+      "id": 275,
+      "type": "text",
+      "question": "Co oznacza czasownik 'entdecken'?",
+      "answer": "Oznacza on 'odkryć' [1]."
+    },
+    {
+      "id": 276,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'wynaleźć'?",
+      "answer": "To czasownik 'erfinden' [1]."
+    },
+    {
+      "id": 277,
+      "type": "text",
+      "question": "Jak nazywa się nauka o chemii?",
+      "answer": "To 'die Chemie' [1]."
+    },
+    {
+      "id": 278,
+      "type": "text",
+      "question": "Jak nazwać 'stolicę' kraju?",
+      "answer": "To 'die Hauptstadt' [1]."
+    },
+    {
+      "id": 279,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'polityk'?",
+      "answer": "To 'der Politiker' [1]."
+    }
+  ]
+}

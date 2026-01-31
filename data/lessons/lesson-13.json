@@ -1,0 +1,125 @@
+{
+  "id": "lesson-13",
+  "title": "Zaimki wskazujące w bierniku",
+  "theory": {
+    "id": 260,
+    "topic": "Zaimki wskazujące w bierniku",
+    "content": "Zaimki wskazujące 'der', 'die', 'das' mogą pełnić funkcję zaimka 'ten/ta/to'. W bierniku (Akkusativ) zmienia się tylko rodzaj męski: 'den' (np. 'Den nehme ich'). Rodzaj żeński 'die' i nijaki 'das' pozostają bez zmian [19]."
+  },
+  "questions": [
+    {
+      "id": 241,
+      "type": "text",
+      "question": "Który stół z ćwiczenia 8 jest najtańszy?",
+      "answer": "Stół A (Tisch A) jest najtańszy (am billigsten) [9]."
+    },
+    {
+      "id": 242,
+      "type": "text",
+      "question": "Który komputer z ćwiczenia 9 jest najszybszy?",
+      "answer": "Ten, który kosztuje 395 Euro, jest najszybszy (am schnellsten) [19]."
+    },
+    {
+      "id": 243,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'szybki'?",
+      "answer": "To przymiotnik 'schnell' [19]."
+    },
+    {
+      "id": 244,
+      "type": "text",
+      "question": "Co oznacza 'SuperShelve 108' w reklamie?",
+      "answer": "To system komputerowy z 10 GB miejsca na dysku [20]."
+    },
+    {
+      "id": 245,
+      "type": "text",
+      "question": "Ile miejsca na dane oferuje SuperShelve 108?",
+      "answer": "Oferuje 10 Gigabyte (10 GB) [20]."
+    },
+    {
+      "id": 246,
+      "type": "text",
+      "question": "Do czego służy 'Video Phone' według reklamy?",
+      "answer": "Służy do filmowania, robienia zdjęć i łączenia z internetem [21]."
+    },
+    {
+      "id": 247,
+      "type": "text",
+      "question": "Czy Video Phone może zastąpić aparat fotograficzny?",
+      "answer": "Tak, według reklamy pozwala zachować wspomnienia w obrazie i dźwięku [20]."
+    },
+    {
+      "id": 248,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'dźwięk'?",
+      "answer": "To słowo 'der Ton' [20]."
+    },
+    {
+      "id": 249,
+      "type": "text",
+      "question": "Co oznacza czasownik 'herunterladen'?",
+      "answer": "Oznacza on 'pobierać' (pliki z internetu) [20]."
+    },
+    {
+      "id": 250,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'wspomnienie'?",
+      "answer": "To 'die Erinnerung' [1]."
+    },
+    {
+      "id": 251,
+      "type": "text",
+      "question": "Gdzie odbywają się targi fotograficzne (Fotomesse)?",
+      "answer": "Odbywają się one m.in. w Kolonii [21]."
+    },
+    {
+      "id": 252,
+      "type": "text",
+      "question": "Jak nazwać 'klienta' po niemiecku?",
+      "answer": "To 'der Kunde' [21]."
+    },
+    {
+      "id": 253,
+      "type": "text",
+      "question": "Jak powiedzieć 'pokazać produkty klientom'?",
+      "answer": "Mówimy 'den Kunden Produkte zeigen' [21]."
+    },
+    {
+      "id": 254,
+      "type": "text",
+      "question": "Gdzie pasuje Video Phone według opisu?",
+      "answer": "Pasuje do każdej torebki (in jede Handtasche passen) [21]."
+    },
+    {
+      "id": 255,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'internet'?",
+      "answer": "To 'das Internet' [21]."
+    },
+    {
+      "id": 256,
+      "type": "text",
+      "question": "Co oznacza słowo 'leicht'?",
+      "answer": "Oznacza ono 'lekki' lub 'łatwy' [21]."
+    },
+    {
+      "id": 257,
+      "type": "text",
+      "question": "Jak nazwać 'podróż'?",
+      "answer": "To 'die Reise' [1]."
+    },
+    {
+      "id": 258,
+      "type": "text",
+      "question": "Co to jest 'der Akku'?",
+      "answer": "To 'akumulator' lub 'bateria do ponownego ładowania' [21]."
+    },
+    {
+      "id": 259,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'ładować'?",
+      "answer": "To czasownik 'laden' [1]."
+    }
+  ]
+}

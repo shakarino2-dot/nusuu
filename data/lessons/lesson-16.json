@@ -1,0 +1,125 @@
+{
+  "id": "lesson-16",
+  "title": "Przeczenie 'kein' kontra 'nicht'",
+  "theory": {
+    "id": 320,
+    "topic": "Przeczenie 'kein' kontra 'nicht'",
+    "content": "Przeczenia 'kein' używamy wyłącznie do zaprzeczania rzeczowników z rodzajnikiem nieokreślonym (ein/eine) lub bez rodzajnika (np. 'Ich habe keine Zeit'). Przeczenia 'nicht' używamy do zaprzeczania czasowników, przymiotników oraz rzeczowników z rodzajnikiem określonym (np. 'Das ist nicht der Schrank') [3, 29]."
+  },
+  "questions": [
+    {
+      "id": 301,
+      "type": "text",
+      "question": "Jak po niemiecku nazywamy 'region'?",
+      "answer": "To 'die Region' [1]."
+    },
+    {
+      "id": 302,
+      "type": "text",
+      "question": "Co oznacza 'e Frikadelle'?",
+      "answer": "To rodzaj kotleta mielonego [28]."
+    },
+    {
+      "id": 303,
+      "type": "text",
+      "question": "Jak w Bawarii (Bayer) nazywa się kotlet mielony?",
+      "answer": "Nazywa się on 'Fleischpflanzerl' [28]."
+    },
+    {
+      "id": 304,
+      "type": "text",
+      "question": "Jak na kotlet mielony mówi się w Berlinie?",
+      "answer": "Mówi się 'Bulette' [28]."
+    },
+    {
+      "id": 305,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'bułka' w Berlinie?",
+      "answer": "To 'Schrippe' [28]."
+    },
+    {
+      "id": 306,
+      "type": "text",
+      "question": "Jak nazywa się bułka w południowych Niemczech i Austrii?",
+      "answer": "Nazywa się 'Semmel' [28]."
+    },
+    {
+      "id": 307,
+      "type": "text",
+      "question": "Jak brzmi szwajcarska nazwa bułki?",
+      "answer": "To 'Mutschli' lub 'Semmeli' [28]."
+    },
+    {
+      "id": 308,
+      "type": "text",
+      "question": "Co oznacza słowo 'Schlagsahne'?",
+      "answer": "To 'bita śmietana' [28]."
+    },
+    {
+      "id": 309,
+      "type": "text",
+      "question": "Jak na bitą śmietanę mówi się w Austrii?",
+      "answer": "Mówi się 'Schlagobers' [28]."
+    },
+    {
+      "id": 310,
+      "type": "text",
+      "question": "Jak po niemiecku nazwać 'placki ziemniaczane'?",
+      "answer": "Można użyć nazw: 'Kartoffelpuffer', 'Reibekuchen' lub 'Reiberdatschi' [28]."
+    },
+    {
+      "id": 311,
+      "type": "text",
+      "question": "W jakim kraju używa się słowa 'Gromperekichelcher'?",
+      "answer": "Używa się go w Luksemburgu [28]."
+    },
+    {
+      "id": 312,
+      "type": "text",
+      "question": "Jak przywitać się rano w północnych Niemczech (np. Hamburg)?",
+      "answer": "Używa się zwrotu 'Moin!' [28]."
+    },
+    {
+      "id": 313,
+      "type": "text",
+      "question": "Jak brzmi powitanie 'Szczęść Boże' używane na południu Niemiec?",
+      "answer": "Brzmi ono 'Grüß Gott!' [28]."
+    },
+    {
+      "id": 314,
+      "type": "text",
+      "question": "Jak Szwajcarzy mówią 'Dzień dobry'?",
+      "answer": "Mówią 'Grüezi!' [28]."
+    },
+    {
+      "id": 315,
+      "type": "text",
+      "question": "Co oznacza 'Servus!'?",
+      "answer": "To nieformalne przywitanie lub pożegnanie używane np. w Bawarii [28]."
+    },
+    {
+      "id": 316,
+      "type": "text",
+      "question": "Jak Szwajcarzy żegnają się, mówiąc 'Do widzenia'?",
+      "answer": "Mówią 'Uf Widerluege!' [28]."
+    },
+    {
+      "id": 317,
+      "type": "text",
+      "question": "Jakie słowo oznacza 'gospodę/knajpę' w Austrii?",
+      "answer": "Jest to 'Beisl' [28]."
+    },
+    {
+      "id": 318,
+      "type": "text",
+      "question": "Co oznacza niemieckie słowo 'r Hafen'?",
+      "answer": "Oznacza 'port' [1]."
+    },
+    {
+      "id": 319,
+      "type": "text",
+      "question": "Jak po niemiecku nazwać 'symbol miasta'?",
+      "answer": "To 'das Wahrzeichen' [1]."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "lesson-6",
+  "title": "Zaimki dzierżawcze (Possessivartikel)",
+  "theory": {
+    "id": 120,
+    "topic": "Zaimki dzierżawcze (Possessivartikel)",
+    "content": "W języku niemieckim zaimki dzierżawcze określają przynależność: 'mein' (mój), 'dein' (twój), 'Ihr' (Pański/Pani). Ich końcówka zależy od rodzaju rzeczownika, np. 'mein Tisch' (rodzaj męski), 'meine Uhr' (rodzaj żeński), 'mein Bild' (rodzaj nijaki) [3]."
+  },
+  "questions": [
+    {
+      "id": 101,
+      "type": "text",
+      "question": "Jak po niemiecku nazywamy wieczór?",
+      "answer": "Jest to 'der Abend' [1]."
+    },
+    {
+      "id": 102,
+      "type": "text",
+      "question": "Co oznacza czasownik 'ab-heben' w kontekście pieniędzy?",
+      "answer": "Oznacza on 'wypłacać' [1]."
+    },
+    {
+      "id": 103,
+      "type": "text",
+      "question": "Jak brzmi liczba mnoga od 'e Adresse'?",
+      "answer": "Liczba mnoga to 'die Adressen' [1]."
+    },
+    {
+      "id": 104,
+      "type": "text",
+      "question": "Jak przetłumaczyć słowo 'allein'?",
+      "answer": "Oznacza ono 'sam/samotnie' [1]."
+    },
+    {
+      "id": 105,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'stary'?",
+      "answer": "To przymiotnik 'alt' [1]."
+    },
+    {
+      "id": 106,
+      "type": "text",
+      "question": "Jakie jest niemieckie słowo oznaczające 'urząd'?",
+      "answer": "Jest to 'das Amt' [1]."
+    },
+    {
+      "id": 107,
+      "type": "text",
+      "question": "Co oznacza czasownik 'an-fangen'?",
+      "answer": "Oznacza on 'zaczynać' [1]."
+    },
+    {
+      "id": 108,
+      "type": "text",
+      "question": "Jak po niemiecku zapytać o czyjeś nazwisko (formularz)?",
+      "answer": "Używamy słowa 'der Familienname' [2]."
+    },
+    {
+      "id": 109,
+      "type": "text",
+      "question": "Jak nazywa się odpowiedź po niemiecku?",
+      "answer": "To 'die Antwort' [1]."
+    },
+    {
+      "id": 110,
+      "type": "text",
+      "question": "Jak powiedzieć 'pracować'?",
+      "answer": "Używamy czasownika 'arbeiten' [1]."
+    },
+    {
+      "id": 111,
+      "type": "text",
+      "question": "Co oznacza 'der Apfelsaft'?",
+      "answer": "Oznacza 'sok jabłkowy' [1]."
+    },
+    {
+      "id": 112,
+      "type": "text",
+      "question": "Jak nazywamy aptekę?",
+      "answer": "To 'die Apotheke' [1]."
+    },
+    {
+      "id": 113,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'pociąg'?",
+      "answer": "To 'die Bahn' [1]."
+    },
+    {
+      "id": 114,
+      "type": "text",
+      "question": "Jak nazwać dworzec kolejowy?",
+      "answer": "To 'der Bahnhof' [1]."
+    },
+    {
+      "id": 115,
+      "type": "text",
+      "question": "Co oznacza słowo 'bald'?",
+      "answer": "Oznacza ono 'wkrótce' [1]."
+    },
+    {
+      "id": 116,
+      "type": "text",
+      "question": "Jak nazywa się balkon?",
+      "answer": "To 'der Balkon' [1]."
+    },
+    {
+      "id": 117,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'piłka'?",
+      "answer": "To 'der Ball' [1]."
+    },
+    {
+      "id": 118,
+      "type": "text",
+      "question": "Jak brzmi nazwa banku?",
+      "answer": "To 'die Bank' [1]."
+    },
+    {
+      "id": 119,
+      "type": "text",
+      "question": "Co oznacza słowo 'bar'?",
+      "answer": "Oznacza ono 'gotówką' lub lokal 'die Bar' [1]."
+    }
+  ]
+}

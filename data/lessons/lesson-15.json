@@ -1,0 +1,125 @@
+{
+  "id": "lesson-15",
+  "title": "Tworzenie nazw żeńskich zawodów",
+  "theory": {
+    "id": 300,
+    "topic": "Tworzenie nazw żeńskich zawodów",
+    "content": "Większość nazw zawodów męskich zmienia się w żeńskie przez dodanie końcówki '-in'. Często dochodzi również przegłos (Umlaut) nad samogłoską rdzenia. Przykłady: 'der Arzt' -> 'die Ärztin', 'der Koch' -> 'die Köchin', 'der Mechaniker' -> 'die Mechanikerin' [26, 27]."
+  },
+  "questions": [
+    {
+      "id": 281,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'rok'?",
+      "answer": "To 'das Jahr' [1]."
+    },
+    {
+      "id": 282,
+      "type": "text",
+      "question": "Jak zapisać słownie rok 1749?",
+      "answer": "Zapisujemy go jako: 'siebzehnhundertneunundvierzig' [23]."
+    },
+    {
+      "id": 283,
+      "type": "text",
+      "question": "Jak zapisać słownie rok 2003?",
+      "answer": "Zapisujemy go jako: 'zweitausendunddrei' [23]."
+    },
+    {
+      "id": 284,
+      "type": "text",
+      "question": "Co oznacza słowo 'r Alltag'?",
+      "answer": "Oznacza ono 'codzienność/dzień powszedni' [1]."
+    },
+    {
+      "id": 285,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'niedziela'?",
+      "answer": "To 'der Sonntag' [18]."
+    },
+    {
+      "id": 286,
+      "type": "text",
+      "question": "Co oznacza 'r Feierabend'?",
+      "answer": "Oznacza czas wolny po pracy [1]."
+    },
+    {
+      "id": 287,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'dziecko'?",
+      "answer": "To 'das Kind' [1]."
+    },
+    {
+      "id": 288,
+      "type": "text",
+      "question": "Jak nazwać 'szczęście'?",
+      "answer": "To 'das Glück' [1]."
+    },
+    {
+      "id": 289,
+      "type": "text",
+      "question": "Co oznacza przymiotnik 'berühmt'?",
+      "answer": "Oznacza on 'sławny/słynny' [1]."
+    },
+    {
+      "id": 290,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'zdrowie'?",
+      "answer": "To 'die Gesundheit' [1]."
+    },
+    {
+      "id": 291,
+      "type": "text",
+      "question": "Jak nazwać 'chorobę'?",
+      "answer": "To 'die Krankheit' [1]."
+    },
+    {
+      "id": 292,
+      "type": "text",
+      "question": "Co oznacza czasownik 'besuchen'?",
+      "answer": "Oznacza on 'odwiedzać' [1]."
+    },
+    {
+      "id": 293,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'lekarstwo'?",
+      "answer": "To 'das Medikament' [1]."
+    },
+    {
+      "id": 294,
+      "type": "text",
+      "question": "Jak nazwać 'ból'?",
+      "answer": "To 'der Schmerz' (często w liczbie mnogiej: die Schmerzen) [24]."
+    },
+    {
+      "id": 295,
+      "type": "text",
+      "question": "Co oznacza zwrot 'Gute Besserung'?",
+      "answer": "Oznacza 'Szybkiego powrotu do zdrowia' [25]."
+    },
+    {
+      "id": 296,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'gorączka'?",
+      "answer": "To 'das Fieber' [1]."
+    },
+    {
+      "id": 297,
+      "type": "text",
+      "question": "Gdzie idziemy, gdy mamy 'Halsschmerzen'?",
+      "answer": "Idziemy do lekarza (zum Arzt), bo mamy ból gardła [24]."
+    },
+    {
+      "id": 298,
+      "type": "text",
+      "question": "Co oznacza czasownik 'rauchen'?",
+      "answer": "Oznacza on 'palić' (np. papierosy) [1]."
+    },
+    {
+      "id": 299,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'zakazany'?",
+      "answer": "To przymiotnik 'verboten' [1]."
+    }
+  ]
+}

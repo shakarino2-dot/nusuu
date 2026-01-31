@@ -1,0 +1,125 @@
+{
+  "id": "lesson-1",
+  "title": "Odmiana czasownika w czasie teraźniejszym (Präsens)",
+  "theory": {
+    "id": 20,
+    "topic": "Odmiana czasownika w czasie teraźniejszym (Präsens)",
+    "content": "W języku niemieckim czasowniki w czasie teraźniejszym odmieniają się przez osoby [7]. Na przykład czasownik 'kommen' (pochodzić) przyjmuje formy: ich komme, du kommst, er/sie/es kommt, Sie kommen [4]. W zdaniach oznajmujących czasownik zajmuje drugie miejsce (Vorfeld - Verb - Subjekt) [8]."
+  },
+  "questions": [
+    {
+      "id": 1,
+      "type": "text",
+      "question": "Jak przywitać się po niemiecku?",
+      "answer": "Można użyć zwrotu 'Guten Tag!' [1]."
+    },
+    {
+      "id": 2,
+      "type": "text",
+      "question": "Jak zapytać kogoś o nazwisko w formie grzecznościowej?",
+      "answer": "Należy zapytać 'Wie heißen Sie?' lub 'Wie ist Ihr Name?' [2]."
+    },
+    {
+      "id": 3,
+      "type": "text",
+      "question": "Jak przedstawić kogoś innego (np. kobietę)?",
+      "answer": "Używamy zwrotu 'Das ist Frau...' [1]."
+    },
+    {
+      "id": 4,
+      "type": "text",
+      "question": "Jak zapytać o nazwisko w formie nieformalnej (na ty)?",
+      "answer": "Pytamy 'Wie heißt du?' [2]."
+    },
+    {
+      "id": 5,
+      "type": "text",
+      "question": "Co odpowiedzieć, gdy ktoś się przedstawia, a my nie dosłyszeliśmy?",
+      "answer": "Używamy pytania 'Wie bitte?' [1]."
+    },
+    {
+      "id": 6,
+      "type": "text",
+      "question": "Jak powiedzieć 'Nazywam się Sabine Sauer'?",
+      "answer": "Można powiedzieć 'Ich heiße Sabine Sauer' lub 'Mein Name ist Sabine Sauer' [1]."
+    },
+    {
+      "id": 7,
+      "type": "text",
+      "question": "Jak po niemiecku zapytać 'Skąd pochodzisz?'",
+      "answer": "Pytamy 'Woher kommst du?' [3]."
+    },
+    {
+      "id": 8,
+      "type": "text",
+      "question": "Jak brzmi odpowiedź 'Pochodzę z Rumunii'?",
+      "answer": "Brzmi ona 'Ich komme aus Rumänien' [4]."
+    },
+    {
+      "id": 9,
+      "type": "text",
+      "question": "Jak zapytać 'Gdzie Pan/Pani mieszka?'",
+      "answer": "Pytamy 'Wo wohnen Sie?' [2]."
+    },
+    {
+      "id": 10,
+      "type": "text",
+      "question": "Jak powiedzieć, że mieszka się w Düsseldorfie?",
+      "answer": "Mówimy 'Ich wohne in Düsseldorf' [4]."
+    },
+    {
+      "id": 11,
+      "type": "text",
+      "question": "Jak zapisać wynik działania: czterdzieści plus trzy plus pięć?",
+      "answer": "Wynik to 48 (achtundvierzig) [5]."
+    },
+    {
+      "id": 12,
+      "type": "text",
+      "question": "Ile to jest siedem plus dziesięć plus dwa?",
+      "answer": "To jest 19 (neunzehn) [5]."
+    },
+    {
+      "id": 13,
+      "type": "text",
+      "question": "Jak brzmi wynik odejmowania: sześćdziesiąt minus dwadzieścia?",
+      "answer": "Wynik to 40 (vierzig) [5]."
+    },
+    {
+      "id": 14,
+      "type": "text",
+      "question": "Ile to jest pięć razy trzy plus trzy?",
+      "answer": "To jest 18 (achtzehn) [5]."
+    },
+    {
+      "id": 15,
+      "type": "text",
+      "question": "Jak po niemiecku zapisać liczbę 100?",
+      "answer": "Zapisujemy ją jako 'hundert' [6]."
+    },
+    {
+      "id": 16,
+      "type": "text",
+      "question": "Jak zapisać liczbę 200?",
+      "answer": "Zapisujemy ją jako 'zweihundert' [6]."
+    },
+    {
+      "id": 17,
+      "type": "text",
+      "question": "Jak po niemiecku powiedzieć 1000?",
+      "answer": "Mówimy 'tausend' [6]."
+    },
+    {
+      "id": 18,
+      "type": "text",
+      "question": "Jak zapytać przez telefon 'Kto mówi?'",
+      "answer": "Pytamy 'Wer ist da, bitte?' [5]."
+    },
+    {
+      "id": 19,
+      "type": "text",
+      "question": "Co powiedzieć, gdy pomyłkowo połączymy się z kimś przez telefon?",
+      "answer": "Mówimy 'Oh, Entschuldigung!' [5]."
+    }
+  ]
+}

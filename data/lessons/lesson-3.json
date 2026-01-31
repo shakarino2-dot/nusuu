@@ -1,0 +1,125 @@
+{
+  "id": "lesson-3",
+  "title": "Biernik (Akkusativ)",
+  "theory": {
+    "id": 60,
+    "topic": "Biernik (Akkusativ)",
+    "content": "W bierniku rodzajnik męski 'der' zmienia się na 'den' [19, 20]. Rodzajniki żeńskie 'die' oraz nijakie 'das' pozostają bez zmian [8, 19]. Przykłady: den Wein, die Cola, das Bier [19]. Biernika używamy m.in. po czasownikach 'bezahlen' (płacić za), 'essen' (jeść) i 'trinken' (pić) [8, 19, 20]."
+  },
+  "questions": [
+    {
+      "id": 41,
+      "type": "text",
+      "question": "Ile kosztuje kawa IDEAL w paczce 500g?",
+      "answer": "Kosztuje ona 4,85 Euro [17]."
+    },
+    {
+      "id": 42,
+      "type": "text",
+      "question": "Jaka jest cena 5 kg ziemniaków?",
+      "answer": "Cena wynosi 3,90 Euro [17]."
+    },
+    {
+      "id": 43,
+      "type": "text",
+      "question": "Ile kosztuje litr mleka?",
+      "answer": "Litr mleka kosztuje 0,78 Euro [17]."
+    },
+    {
+      "id": 44,
+      "type": "text",
+      "question": "Jaka jest cena masła (250g)?",
+      "answer": "Masło kosztuje 1,12 Euro [17]."
+    },
+    {
+      "id": 45,
+      "type": "text",
+      "question": "Co można kupić w paczce 250g za 2,23 Euro?",
+      "answer": "Można kupić herbatę BUNTING [17]."
+    },
+    {
+      "id": 46,
+      "type": "text",
+      "question": "Jak powiedzieć po niemiecku 'bułka'?",
+      "answer": "Jest to 'das Brötchen' [17, 18]."
+    },
+    {
+      "id": 47,
+      "type": "text",
+      "question": "Jak nazywa się ser szwajcarski/holenderski?",
+      "answer": "To 'der Käse' [17, 19]."
+    },
+    {
+      "id": 48,
+      "type": "text",
+      "question": "Jak brzmi słowo 'szynka'?",
+      "answer": "To 'der Schinken' [20, 21]."
+    },
+    {
+      "id": 49,
+      "type": "text",
+      "question": "Jak poprosić o sok jabłkowy?",
+      "answer": "Prosimy 'Einen Apfelsaft, bitte' [22]."
+    },
+    {
+      "id": 50,
+      "type": "text",
+      "question": "Jak zapytać o cenę, używając czasownika 'kosztować'?",
+      "answer": "Pytamy 'Was kostet...?' [23]."
+    },
+    {
+      "id": 51,
+      "type": "text",
+      "question": "Jak powiedzieć w restauracji 'Chcielibyśmy zapłacić'?",
+      "answer": "Mówimy 'Wir möchten bitte bezahlen' [20]."
+    },
+    {
+      "id": 52,
+      "type": "text",
+      "question": "Jakie pytanie zada kelner przy płaceniu?",
+      "answer": "Zapyta 'Zusammen oder getrennt?' (Razem czy osobno?) [20]."
+    },
+    {
+      "id": 53,
+      "type": "text",
+      "question": "Jak powiedzieć, że płacimy osobno?",
+      "answer": "Mówimy 'Getrennt bitte' [20]."
+    },
+    {
+      "id": 54,
+      "type": "text",
+      "question": "Co oznacza zwrot 'Stimmt so'?",
+      "answer": "Oznacza on 'Reszty nie trzeba' [19, 20]."
+    },
+    {
+      "id": 55,
+      "type": "text",
+      "question": "Jak powiedzieć 'płacę za pieczeń wieprzową i wino'?",
+      "answer": "Mówimy 'Ich bezahle den Schweinebraten und den Wein' [20]."
+    },
+    {
+      "id": 56,
+      "type": "text",
+      "question": "Jak odmienia się czasownik 'essen' dla osoby 'du'?",
+      "answer": "Forma ta brzmi 'du isst' [22]."
+    },
+    {
+      "id": 57,
+      "type": "text",
+      "question": "Jak odmienia się czasownik 'nehmen' dla osoby 'er'?",
+      "answer": "Forma ta brzmi 'er nimmt' [22]."
+    },
+    {
+      "id": 58,
+      "type": "text",
+      "question": "Gdzie pracuje kelner?",
+      "answer": "Kelner pracuje w restauracji (im Restaurant) [20, 24]."
+    },
+    {
+      "id": 59,
+      "type": "text",
+      "question": "Jak powiedzieć 'Nie, dziękuję, jestem syty'?",
+      "answer": "Mówimy 'Nein danke, ich bin satt' [25]."
+    }
+  ]
+}

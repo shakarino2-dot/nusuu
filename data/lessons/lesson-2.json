@@ -1,0 +1,125 @@
+{
+  "id": "lesson-2",
+  "title": "Rodzajniki i przeczenia w mianowniku",
+  "theory": {
+    "id": 40,
+    "topic": "Rodzajniki i przeczenia w mianowniku",
+    "content": "W języku niemieckim występują trzy rodzaje: męski (der), żeński (die) i nijaki (das) [15]. Rodzajnik nieokreślony to odpowiednio: ein, eine, ein [11]. Przeczenie dla rzeczowników w mianowniku tworzymy za pomocą słowa 'kein' (rodzaj męski i nijaki) oraz 'keine' (rodzaj żeński i liczba mnoga) [12, 16]."
+  },
+  "questions": [
+    {
+      "id": 21,
+      "type": "text",
+      "question": "Kim z zawodu jest Angelika Wiechert?",
+      "answer": "Z zawodu jest inżynierem (Ingenieurin), ale obecnie jest gospodynią domową (Hausfrau) [9]."
+    },
+    {
+      "id": 22,
+      "type": "text",
+      "question": "Gdzie mieszka Klaus-Otto Baumer?",
+      "answer": "Mieszka on w Vaduz [10]."
+    },
+    {
+      "id": 23,
+      "type": "text",
+      "question": "Jaki zawód wykonuje Klaus-Otto Baumer?",
+      "answer": "Jest mechanikiem samochodowym (Automechaniker) [10]."
+    },
+    {
+      "id": 24,
+      "type": "text",
+      "question": "Co jest hobby Klausa-Otto Baumera?",
+      "answer": "Jego hobby to podróżowanie (Reisen) [10]."
+    },
+    {
+      "id": 25,
+      "type": "text",
+      "question": "Jak nazwać żeńską formę zawodu 'Mechaniker'?",
+      "answer": "Forma żeńska to 'Mechanikerin' [10]."
+    },
+    {
+      "id": 26,
+      "type": "text",
+      "question": "Jak nazywa się lekarz płci żeńskiej?",
+      "answer": "Nazywa się 'Ärztin' [10]."
+    },
+    {
+      "id": 27,
+      "type": "text",
+      "question": "Jak brzmi po niemiecku słowo 'krzesło' wraz z rodzajnikiem?",
+      "answer": "Jest to 'der Stuhl' [11, 12]."
+    },
+    {
+      "id": 28,
+      "type": "text",
+      "question": "Jak brzmi słowo 'stół'?",
+      "answer": "To 'der Tisch' [11, 12]."
+    },
+    {
+      "id": 29,
+      "type": "text",
+      "question": "Jak powiedzieć 'lampa'?",
+      "answer": "Mówimy 'die Lampe' [11, 12]."
+    },
+    {
+      "id": 30,
+      "type": "text",
+      "question": "Jak nazywamy po niemiecku kuchenkę elektryczną?",
+      "answer": "Nazywamy ją 'der Elektroherd' [11, 12]."
+    },
+    {
+      "id": 31,
+      "type": "text",
+      "question": "Jak nazwać umywalkę lub zlew?",
+      "answer": "Nazywa się go 'das Waschbecken' [11, 12]."
+    },
+    {
+      "id": 32,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'długopis'?",
+      "answer": "To 'der Kugelschreiber' [11, 12]."
+    },
+    {
+      "id": 33,
+      "type": "text",
+      "question": "Jak powiedzieć 'zdjęcie'?",
+      "answer": "Używamy słowa 'das Foto' [11, 12]."
+    },
+    {
+      "id": 34,
+      "type": "text",
+      "question": "Jak brzmi liczba mnoga od 'der Tisch'?",
+      "answer": "Liczba mnoga to 'die Tische' [12, 13]."
+    },
+    {
+      "id": 35,
+      "type": "text",
+      "question": "Jak brzmi liczba mnoga od 'die Batterie'?",
+      "answer": "Liczba mnoga to 'die Batterien' [12, 13]."
+    },
+    {
+      "id": 36,
+      "type": "text",
+      "question": "Jak brzmi liczba mnoga od 'das Foto'?",
+      "answer": "Liczba mnoga to 'die Fotos' [12, 13]."
+    },
+    {
+      "id": 37,
+      "type": "text",
+      "question": "Jak powiedzieć, że coś jest zepsute?",
+      "answer": "Używamy zwrotu '...ist kaputt' [14]."
+    },
+    {
+      "id": 38,
+      "type": "text",
+      "question": "Jak zaprzeczyć istnieniu przedmiotu rodzaju męskiego (np. zmywarki)?",
+      "answer": "Mówimy 'da ist kein Geschirrspüler' [12]."
+    },
+    {
+      "id": 39,
+      "type": "text",
+      "question": "Jak zaprzeczyć istnieniu przedmiotu rodzaju żeńskiego (np. pralki)?",
+      "answer": "Mówimy 'keine Waschmaschine' [12]."
+    }
+  ]
+}

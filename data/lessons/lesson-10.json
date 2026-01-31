@@ -1,0 +1,125 @@
+{
+  "id": "lesson-10",
+  "title": "Szyk zdania w pytaniach (Satzfrage)",
+  "theory": {
+    "id": 200,
+    "topic": "Szyk zdania w pytaniach (Satzfrage)",
+    "content": "W pytaniach o rozstrzygnięcie (tak/nie) czasownik odmienny zajmuje pierwsze miejsce w zdaniu. Na drugim miejscu znajduje się podmiot. Przykład: 'Wohnst du in Brienz?' lub 'Ist das Maja Matter?' [15]."
+  },
+  "questions": [
+    {
+      "id": 181,
+      "type": "text",
+      "question": "O której godzinie wstaje Willi Rose?",
+      "answer": "Wstaje o 5.30 rano [12]."
+    },
+    {
+      "id": 182,
+      "type": "text",
+      "question": "Co Willi Rose robi rano po wstaniu?",
+      "answer": "Przygotowuje śniadanie [12]."
+    },
+    {
+      "id": 183,
+      "type": "text",
+      "question": "O której godzinie wstaje Monika Hilger?",
+      "answer": "Wstaje o 6.00 rano [12]."
+    },
+    {
+      "id": 184,
+      "type": "text",
+      "question": "Co Monika Hilger robi jako pierwszą czynność w pracy?",
+      "answer": "Ściele łóżka (macht Betten) [12]."
+    },
+    {
+      "id": 185,
+      "type": "text",
+      "question": "O której godzinie wstaje dr Klaus Schwarz?",
+      "answer": "Wstaje o 7.00 rano [12]."
+    },
+    {
+      "id": 186,
+      "type": "text",
+      "question": "Co dr Klaus Schwarz robi rano przed pracą?",
+      "answer": "Idzie na spacer (macht einen Spaziergang) [12]."
+    },
+    {
+      "id": 187,
+      "type": "text",
+      "question": "Jak po niemiecku zapytać 'O której godzinie...?'",
+      "answer": "Pytamy 'Um wie viel Uhr...?' [12]."
+    },
+    {
+      "id": 188,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'spacer'?",
+      "answer": "To 'der Spaziergang' [1]."
+    },
+    {
+      "id": 189,
+      "type": "text",
+      "question": "Co oznacza czasownik 'träumen'?",
+      "answer": "Oznacza on 'śnić' lub 'marzyć' [12]."
+    },
+    {
+      "id": 190,
+      "type": "text",
+      "question": "Jak powiedzieć 'piętnaście po czwartej'?",
+      "answer": "Mówimy 'Viertel nach vier' [13]."
+    },
+    {
+      "id": 191,
+      "type": "text",
+      "question": "Jak powiedzieć 'za dziesięć siódma'?",
+      "answer": "Mówimy 'zehn vor sieben' [13]."
+    },
+    {
+      "id": 192,
+      "type": "text",
+      "question": "Co oznacza 'Mitternacht'?",
+      "answer": "Oznacza 'północ' [13]."
+    },
+    {
+      "id": 193,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'wpół do jedenastej'?",
+      "answer": "To 'halb elf' [13]."
+    },
+    {
+      "id": 194,
+      "type": "text",
+      "question": "Co oznacza zdanie 'Hier darf man nicht rauchen'?",
+      "answer": "Oznacza 'Tutaj nie wolno palić' [14]."
+    },
+    {
+      "id": 195,
+      "type": "text",
+      "question": "Gdzie na statku steward obsługuje gościa?",
+      "answer": "Robi to na pokładzie (auf Deck) [14]."
+    },
+    {
+      "id": 196,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'fryzjerka'?",
+      "answer": "To 'die Friseurin' [14]."
+    },
+    {
+      "id": 197,
+      "type": "text",
+      "question": "Co robi pianista na statku?",
+      "answer": "Gra na pianinie (spielt Klavier) [14]."
+    },
+    {
+      "id": 198,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'kucharz'?",
+      "answer": "To 'der Koch' [14]."
+    },
+    {
+      "id": 199,
+      "type": "text",
+      "question": "Co robi maser (der Masseur)?",
+      "answer": "Masuje kogoś (massiert jemanden) [14]."
+    }
+  ]
+}

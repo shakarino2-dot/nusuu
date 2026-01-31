@@ -1,0 +1,125 @@
+{
+  "id": "lesson-4",
+  "title": "Czasowniki modalne 'dürfen' i 'müssen'",
+  "theory": {
+    "id": 80,
+    "topic": "Czasowniki modalne 'dürfen' i 'müssen'",
+    "content": "Czasownik 'dürfen' wyraża pozwolenie lub jego brak (w przeczeniu), np. 'Hier darf man nicht rauchen' [33, 39]. Czasownik 'müssen' wyraża konieczność lub mus, np. 'Ich muss arbeiten' [40, 41]. W zdaniu z czasownikiem modalnym, czasownik główny w bezokoliczniku wędruje na sam koniec zdania [7, 42]."
+  },
+  "questions": [
+    {
+      "id": 61,
+      "type": "text",
+      "question": "Co powiedzieć, gdy piwo jest za ciepłe?",
+      "answer": "Mówimy 'Das Bier ist warm' [17]."
+    },
+    {
+      "id": 62,
+      "type": "text",
+      "question": "Jak powiedzieć, że wino jest za kwaśne?",
+      "answer": "Mówimy 'Der Wein ist sauer' [17]."
+    },
+    {
+      "id": 63,
+      "type": "text",
+      "question": "Jak określić, że zupa jest przesolona?",
+      "answer": "Używamy zwrotu 'Die Suppe ist zu salzig' [17]."
+    },
+    {
+      "id": 64,
+      "type": "text",
+      "question": "Co zrobić, gdy chleb jest stary lub twardy?",
+      "answer": "Mówimy 'Das Brot ist alt' lub 'Das Brot ist hart' [17]."
+    },
+    {
+      "id": 65,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'wolny czas'?",
+      "answer": "To 'die Freizeit' [26, 27]."
+    },
+    {
+      "id": 66,
+      "type": "text",
+      "question": "Co można robić na basenie (Schwimmbad)?",
+      "answer": "Można tam pływać (schwimmen) [28, 29]."
+    },
+    {
+      "id": 67,
+      "type": "text",
+      "question": "Gdzie można oglądać filmy?",
+      "answer": "W kinie (im Kino) [30, 31]."
+    },
+    {
+      "id": 68,
+      "type": "text",
+      "question": "Jak zapytać 'Która jest godzina?'",
+      "answer": "Pytamy 'Wie spät ist es?' [32]."
+    },
+    {
+      "id": 69,
+      "type": "text",
+      "question": "Jak powiedzieć 'Jest trzecia godzina'?",
+      "answer": "Mówimy 'Es ist drei Uhr' [32]."
+    },
+    {
+      "id": 70,
+      "type": "text",
+      "question": "Jak powiedzieć 'za dziesięć siódma'?",
+      "answer": "Mówimy 'zehn vor sieben' [32]."
+    },
+    {
+      "id": 71,
+      "type": "text",
+      "question": "Jak powiedzieć 'kwadrans po dziewiątej'?",
+      "answer": "Mówimy 'Viertel nach neun' [32]."
+    },
+    {
+      "id": 72,
+      "type": "text",
+      "question": "Jak powiedzieć 'wpół do trzeciej'?",
+      "answer": "Mówimy 'fünf nach halb drei' [32]."
+    },
+    {
+      "id": 73,
+      "type": "text",
+      "question": "Czy w bibliotece wolno palić?",
+      "answer": "Nie, 'Hier darf man nicht rauchen' [33]."
+    },
+    {
+      "id": 74,
+      "type": "text",
+      "question": "Gdzie należy zachować ciszę?",
+      "answer": "Tam, gdzie widnieje napis 'Hier muss man leise sprechen' [33]."
+    },
+    {
+      "id": 75,
+      "type": "text",
+      "question": "Co oznacza zakaz 'Eintritt verboten'?",
+      "answer": "Oznacza on zakaz wstępu [34, 35]."
+    },
+    {
+      "id": 76,
+      "type": "text",
+      "question": "Jak zapytać kolegę 'Masz na dziś wieczór jakieś plany?'",
+      "answer": "Pytamy 'Hast du heute Abend schon was vor?' [32, 36]."
+    },
+    {
+      "id": 77,
+      "type": "text",
+      "question": "Jak odmówić spotkania z powodu braku czasu?",
+      "answer": "Mówimy 'Tut mir Leid, aber ich habe keine Zeit' [32, 36]."
+    },
+    {
+      "id": 78,
+      "type": "text",
+      "question": "Jak zaproponować wspólne wyjście do kina?",
+      "answer": "Można zapytać 'Kommst du mit ins Kino?' [36, 37]."
+    },
+    {
+      "id": 79,
+      "type": "text",
+      "question": "Co oznacza czasownik 'warten'?",
+      "answer": "Oznacza on 'czekać' [28, 38]."
+    }
+  ]
+}

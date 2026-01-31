@@ -1,0 +1,125 @@
+{
+  "id": "lesson-19",
+  "title": "Liczba mnoga rzeczowników – końcówki",
+  "theory": {
+    "id": 380,
+    "topic": "Liczba mnoga rzeczowników – końcówki",
+    "content": "Tworzenie liczby mnogiej w języku niemieckim nie opiera się na jednej zasadzie. Rzeczowniki mogą przyjmować końcówki: '-e' (der Tisch -> die Tische), '-n/-en' (die Batterie -> die Batterien), '-er' (das Bild -> die Bilder), '-s' (das Foto -> die Fotos) lub nie zmieniać końcówki wcale, często zyskując przegłos (der Apfel -> die Äpfel) [31, 32]."
+  },
+  "questions": [
+    {
+      "id": 361,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'śniadanie'?",
+      "answer": "To 'das Frühstück' [12]."
+    },
+    {
+      "id": 362,
+      "type": "text",
+      "question": "Jak powiedzieć 'rano'?",
+      "answer": "Mówimy 'morgens' [15]."
+    },
+    {
+      "id": 363,
+      "type": "text",
+      "question": "Co oznacza słowo 'danach'?",
+      "answer": "Oznacza ono 'potem/następnie' [15]."
+    },
+    {
+      "id": 364,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'często'?",
+      "answer": "To przysłówek 'oft' [15]."
+    },
+    {
+      "id": 365,
+      "type": "text",
+      "question": "Jak powiedzieć 'chętnie'?",
+      "answer": "Używamy słowa 'gern' [15]."
+    },
+    {
+      "id": 366,
+      "type": "text",
+      "question": "Co oznacza przymiotnik 'klein'?",
+      "answer": "Oznacza on 'mały' [15]."
+    },
+    {
+      "id": 367,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'żonaty/zamężna'?",
+      "answer": "To przymiotnik 'verheiratet' [15]."
+    },
+    {
+      "id": 368,
+      "type": "text",
+      "question": "Jak nazwać 'dzieci' (liczba mnoga)?",
+      "answer": "To 'die Kinder' [15]."
+    },
+    {
+      "id": 369,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'jeszcze'?",
+      "answer": "To słowo 'noch' [15]."
+    },
+    {
+      "id": 370,
+      "type": "text",
+      "question": "Co oznacza 'etwas'?",
+      "answer": "Oznacza ono 'coś' lub 'trochę' [15]."
+    },
+    {
+      "id": 371,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'mięso'?",
+      "answer": "To 'das Fleisch' [15]."
+    },
+    {
+      "id": 372,
+      "type": "text",
+      "question": "Jak nazwać 'herbatę'?",
+      "answer": "To 'der Tee' [15]."
+    },
+    {
+      "id": 373,
+      "type": "text",
+      "question": "Co oznacza tryb rozkazujący 'Nehmen Sie!'?",
+      "answer": "Oznacza 'Proszę wziąć!' (forma grzecznościowa) [15]."
+    },
+    {
+      "id": 374,
+      "type": "text",
+      "question": "Jak brzmi tryb rozkazujący 'weź!' dla osoby 'ty'?",
+      "answer": "Brzmi on 'Nimm!' [15]."
+    },
+    {
+      "id": 375,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'ryba'?",
+      "answer": "To 'der Fisch' [15]."
+    },
+    {
+      "id": 376,
+      "type": "text",
+      "question": "Co oznacza zaimek 'das' w zdaniu 'Ist das Maja Matter?'",
+      "answer": "Oznacza 'to' (zaimek wskazujący) [15]."
+    },
+    {
+      "id": 377,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'dwie' (liczba)?",
+      "answer": "To 'zwei' [15]."
+    },
+    {
+      "id": 378,
+      "type": "text",
+      "question": "Jak nazwać 'rodziców'?",
+      "answer": "To 'die Eltern' [1]."
+    },
+    {
+      "id": 379,
+      "type": "text",
+      "question": "Co oznacza przymiotnik 'süß'?",
+      "answer": "Oznacza on 'słodki' [1]."
+    }
+  ]
+}

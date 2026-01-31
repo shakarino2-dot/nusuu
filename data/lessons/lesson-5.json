@@ -1,0 +1,125 @@
+{
+  "id": "lesson-5",
+  "title": "Stopniowanie przymiotników i Celownik (Dativ)",
+  "theory": {
+    "id": 100,
+    "topic": "Stopniowanie przymiotników i Celownik (Dativ)",
+    "content": "Przymiotniki stopniujemy regularnie dodając końcówkę '-er' w stopniu wyższym i 'am ...-sten' w najwyższym [41]. Wyjątki to np. gut-besser-am besten [41]. Celownik (Dativ) zmienia rodzajniki: der/das -> dem, die -> der, liczba mnoga -> den [59]. Zaimki osobowe w celowniku to m.in. ihm (jemu), ihr (jej), ihnen (im) [47, 59]."
+  },
+  "questions": [
+    {
+      "id": 81,
+      "type": "text",
+      "question": "Jak nazywa się pomieszczenie, w którym się śpi?",
+      "answer": "Jest to 'das Schlafzimmer' [29, 43]."
+    },
+    {
+      "id": 82,
+      "type": "text",
+      "question": "Gdzie w domu przygotowuje się posiłki?",
+      "answer": "W kuchni, czyli 'die Küche' [43, 44]."
+    },
+    {
+      "id": 83,
+      "type": "text",
+      "question": "Jak nazywamy pokój dzienny?",
+      "answer": "Nazywamy go 'das Wohnzimmer' [18, 43]."
+    },
+    {
+      "id": 84,
+      "type": "text",
+      "question": "Jak po niemiecku jest 'łazienka'?",
+      "answer": "To 'das Bad' [43, 45]."
+    },
+    {
+      "id": 85,
+      "type": "text",
+      "question": "Gdzie zazwyczaj trzymamy niepotrzebne rzeczy lub zapasy w piwnicy?",
+      "answer": "W 'der Keller' [30, 43]."
+    },
+    {
+      "id": 86,
+      "type": "text",
+      "question": "Jak nazwać przedpokój lub korytarz?",
+      "answer": "To 'der Flur' [27, 43]."
+    },
+    {
+      "id": 87,
+      "type": "text",
+      "question": "Jak powiedzieć, że szafa jest za duża?",
+      "answer": "Mówimy 'Der Schrank ist zu groß' [46, 47]."
+    },
+    {
+      "id": 88,
+      "type": "text",
+      "question": "Jak ocenić, że regał jest niepraktyczny?",
+      "answer": "Mówimy 'Das Regal ist unpraktisch' [46, 48]."
+    },
+    {
+      "id": 89,
+      "type": "text",
+      "question": "Jak powiedzieć 'Podoba mi się to krzesło'?",
+      "answer": "Mówimy 'Der Stuhl gefällt mir' [49]."
+    },
+    {
+      "id": 90,
+      "type": "text",
+      "question": "Jak brzmi stopień wyższy od przymiotnika 'billig' (tani)?",
+      "answer": "To 'billiger' (tańszy) [41, 50]."
+    },
+    {
+      "id": 91,
+      "type": "text",
+      "question": "Jak brzmi stopień najwyższy od 'gut' (dobry)?",
+      "answer": "To 'am besten' [41, 51]."
+    },
+    {
+      "id": 92,
+      "type": "text",
+      "question": "Gdzie znajduje się katedra Kölner Dom?",
+      "answer": "Znajduje się ona w Kolonii (Köln) [52, 53]."
+    },
+    {
+      "id": 93,
+      "type": "text",
+      "question": "Co jest symbolem Frankfurtu nad Menem?",
+      "answer": "Jego symbolem jest Römerberg z historycznymi domami [54]."
+    },
+    {
+      "id": 94,
+      "type": "text",
+      "question": "Gdzie można przejechać się wielkim kołem 'Riesenrad'?",
+      "answer": "W Wiedniu, w parku Prater [24, 54]."
+    },
+    {
+      "id": 95,
+      "type": "text",
+      "question": "Jak nazywa się słynny zamek w Dreźnie?",
+      "answer": "Nazywa się on Zwinger [42, 55]."
+    },
+    {
+      "id": 96,
+      "type": "text",
+      "question": "Kiedy urodził się Johann Wolfgang von Goethe?",
+      "answer": "Urodził się 28 sierpnia 1749 roku [15, 56]."
+    },
+    {
+      "id": 97,
+      "type": "text",
+      "question": "Jak brzmi data śmierci Wolfganga Amadeusa Mozarta?",
+      "answer": "Zmarł on 5 grudnia 1791 roku [15, 56]."
+    },
+    {
+      "id": 98,
+      "type": "text",
+      "question": "Co oznacza słowo 'Wahrzeichen'?",
+      "answer": "Oznacza ono symbol lub charakterystyczny punkt miasta [52, 57]."
+    },
+    {
+      "id": 99,
+      "type": "text",
+      "question": "Jak po niemiecku zapytać o drogę do dworca?",
+      "answer": "Pytamy 'Wie komme ich bitte zum Bahnhof?' [58]."
+    }
+  ]
+}
