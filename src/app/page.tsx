@@ -1,6 +1,6 @@
 import { getAllLessons } from "@/lib/lessons";
 import Link from "next/link";
-import { Star, Lock } from "lucide-react";
+import { Star } from "lucide-react";
 
 export const revalidate = 0; // Ensure fresh data on reload
 
@@ -16,7 +16,7 @@ export default async function Home() {
 
             <div className="grid gap-4 md:gap-6 md:grid-cols-2 lg:grid-cols-3">
                 {lessons.map((lesson, index) => {
-                    const isLocked = index > 0;
+                    const isLocked = false;
 
                     return (
                         <Link key={lesson.id} href={`/lesson/${lesson.id}`} className={isLocked ? "pointer-events-none" : ""}>
@@ -32,7 +32,7 @@ export default async function Home() {
                         `}>
                                         {index + 1}
                                     </div>
-                                    {isLocked ? <Lock className="w-5 h-5" /> : <Star className="w-5 h-5 text-yellow-400 fill-yellow-400 opacity-50 group-hover:opacity-100 transition-opacity" />}
+                                    <Star className="w-5 h-5 text-yellow-400 fill-yellow-400 opacity-50 group-hover:opacity-100 transition-opacity" />
                                 </div>
                                 <div className="space-y-2">
                                     <h3 className="font-bold text-lg leading-tight">{lesson.title}</h3>
