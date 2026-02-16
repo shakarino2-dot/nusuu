@@ -49,3 +49,23 @@ To deploy the application to Vercel, follow these steps:
 *   [TypeScript](https://www.typescriptlang.org/) - A statically typed superset of JavaScript.
 *   [Framer Motion](https://www.framer.com/motion/) - A production-ready motion library for React.
 *   [Lucide React](https://lucide.dev/) - A beautiful and consistent icon toolkit.
+
+## Troubleshooting
+
+### "turbo.createProject is not supported by the wasm bindings" or SWC binary errors
+
+If you see an error related to `@next/swc` or Turbopack (especially on Windows), it's likely due to a corrupted `node_modules` or a mismatch in native binaries. Follow these steps to fix it:
+
+1.  **Clear cache and dependencies:**
+    ```bash
+    rm -rf node_modules .next package-lock.json
+    ```
+    *(On Windows Powerhell: `Remove-Item -Recurse -Force node_modules, .next, package-lock.json`)*
+2.  **Reinstall:**
+    ```bash
+    npm install
+    ```
+3.  **Run without Turbopack (if the error persists):**
+    ```bash
+    npm run dev:no-turbo
+    ```
