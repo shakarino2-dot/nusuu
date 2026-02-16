@@ -3,9 +3,9 @@ import { LessonView } from "@/components/lesson/LessonView";
 import { notFound } from "next/navigation";
 
 interface PageProps {
-    params: {
+    params: Promise<{
         lessonId: string
-    }
+    }>
 }
 
 // Generate static params for existing lessons to optimize
@@ -17,7 +17,8 @@ export async function generateStaticParams() {
 }
 
 export default async function LessonPage({ params }: PageProps) {
-    const lesson = await getLesson(params.lessonId)
+    const { lessonId } = await params;
+    const lesson = await getLesson(lessonId)
 
     if (!lesson) {
         notFound()

@@ -1,6 +1,5 @@
 import { getAllLessons } from "@/lib/lessons";
 import Link from "next/link";
-import { Button } from "@/components/ui/button";
 import { Star, Lock } from "lucide-react";
 
 export const revalidate = 0; // Ensure fresh data on reload

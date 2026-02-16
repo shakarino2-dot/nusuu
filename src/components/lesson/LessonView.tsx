@@ -37,7 +37,6 @@ export function LessonView({ lesson }: LessonViewProps) {
                 <QuizView
                     questions={lesson.questions}
                     onComplete={handleQuizComplete}
-                    onRetry={() => setView('theory')}
                 />
             )}
 
@@ -46,7 +45,7 @@ export function LessonView({ lesson }: LessonViewProps) {
                     <CheckCircle className="w-24 h-24 text-green-500" />
                     <h2 className="text-3xl font-bold text-green-600">Lekcja Ukończona!</h2>
                     <p className="text-xl text-slate-600">Zdobyłeś wiedzę i punkty XP.</p>
-                    <Button size="lg" onClick={() => router.push('/')} className="w-full max-w-sm">Wróć do menu</Button>
+                    <Button size="lg" onClick={() => router.push('/')} className="w-full max-sm:w-full max-w-sm">Wróć do menu</Button>
                 </div>
             )}
 
@@ -55,7 +54,7 @@ export function LessonView({ lesson }: LessonViewProps) {
                     <RotateCcw className="w-24 h-24 text-red-500" />
                     <h2 className="text-3xl font-bold text-red-600">Nie udało się...</h2>
                     <p className="text-xl text-slate-600">Zabrakło żyć. Przeczytaj teorię jeszcze raz!</p>
-                    <Button size="lg" onClick={() => setView('theory')} variant="secondary" className="w-full max-w-sm">
+                    <Button size="lg" onClick={() => setView('theory')} variant="secondary" className="w-full max-sm:w-full max-w-sm">
                         Powtórz Teorię
                     </Button>
                 </div>
