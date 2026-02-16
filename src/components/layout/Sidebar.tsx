@@ -2,7 +2,7 @@
 
 import Link from "next/link"
 import { usePathname } from "next/navigation"
-import { Book, User, Trophy, MoreHorizontal } from "lucide-react"
+import { Book, User, Trophy } from "lucide-react"
 import { cn } from "@/lib/utils"
 
 const textStyle = "text-xs font-bold uppercase tracking-widest"

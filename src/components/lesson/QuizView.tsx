@@ -2,7 +2,7 @@
 
 import { useState } from "react"
 import { motion, AnimatePresence } from "framer-motion"
-import { Check, X, ArrowRight, RotateCcw } from "lucide-react"
+import { ArrowRight } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Progress } from "@/components/ui/progress"
 import { HeartSystem } from "./HeartSystem"
@@ -13,10 +13,9 @@ interface QuizViewProps {
     questions: Question[]
     initialHearts?: number
     onComplete: (success: boolean) => void
-    onRetry: () => void
 }
 
-export function QuizView({ questions, initialHearts = 3, onComplete, onRetry }: QuizViewProps) {
+export function QuizView({ questions, initialHearts = 3, onComplete }: QuizViewProps) {
     const [currentIndex, setCurrentIndex] = useState(0)
     const [hearts, setHearts] = useState(initialHearts)
     const [answer, setAnswer] = useState("")

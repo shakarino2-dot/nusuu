@@ -23,7 +23,7 @@ export function TheoryView({ theory, onStart }: TheoryViewProps) {
 
             <div className="pt-4 border-t-2 border-slate-100">
                 <Button onClick={onStart} className="w-full" size="lg">
-                    Rybocznij quiz (Start Quiz)
+                    Rozpocznij quiz (Start Quiz)
                 </Button>
             </div>
         </div>
