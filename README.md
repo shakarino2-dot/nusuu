@@ -24,6 +24,23 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 *   **Progressive Learning:** Unlock new lessons as you complete the previous ones.
 *   **Modern UI:** A clean and intuitive user interface built with Tailwind CSS and Framer Motion.
 
+## Deployment
+
+To deploy the application to Vercel, follow these steps:
+
+1.  **Install Vercel CLI:**
+    ```bash
+    npm install -g vercel
+    ```
+2.  **Login to Vercel:**
+    ```bash
+    vercel login
+    ```
+3.  **Deploy:**
+    ```bash
+    vercel
+    ```
+
 ## Tech Stack
 
 *   [Next.js](https://nextjs.org/) - React framework for web development.
